@@ -100,7 +100,7 @@
 - [MedAgentBoard: Benchmarking Multi‑Agent Collaboration with Conventional Methods for Diverse Medical Tasks](https://arxiv.org/abs/2505.05777), **_arXiv_**, 2025.
 - [MedChain: Bridging the Gap Between LLM Agents and Clinical Practice Through Interactive Sequential Benchmarking](https://arxiv.org/abs/2406.03112), **_arXiv_**, 2024.
 - [Generalization in Healthcare AI: Evaluation of a Clinical LLM](https://arxiv.org/abs/2404.06010), **_arXiv_**, 2024.
-- [AI Agents in Modern Healthcare: A Comprehensive Review and Implementation Roadmap](https://www.preprints.org/manuscript/202502.0012/v1), **_Preprints_**, 2025.
+- [AI Agents in Modern Healthcare: A Comprehensive Review and Implementation Roadmap](https://www.preprints.org/manuscript/202503.1352/v1), **_Preprints_**, 2025.
 - [Artificial Intelligence and Automation in Endoscopy and Surgery](https://www.nature.com/articles/s41575-022-00701-y), **_Nature Reviews Gastroenterology & Hepatology_**, 2023.
 
 
