@@ -41,6 +41,7 @@
 - [HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs](https://openreview.net/forum?id=eJ3cHNu7ss), **_COLM_**, 2024.
 - [HuatuoGPT‑o1: Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925), **_arXiv_**, 2024.
 - [HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale](https://aclanthology.org/2024.emnlp-main.418.pdf), **_EMNLP_**, 2024.
+- [Improving Medical Large Vision-Language Models with Abnormal-Aware Feedback](https://arxiv.org/abs/2501.01377), **_ACL_**, 2025.
 - [Large Language Model‑Informed ECG Dual Attention Network for Heart Failure Risk Prediction](https://arxiv.org/abs/2403.10581), **_IEEE Transactions on Big Data_**, 2025.
 - [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2407.08940), **_arXiv_**, 2024.
 - [Large Language Models Encode Clinical Knowledge](https://www.nature.com/articles/s41586-023-06291-2), **_Nature_**, 2023.
@@ -90,6 +91,7 @@
 - [DDO: Dual-Decision Optimization via Multi-Agent Collaboration for LLM-Based Medical Consultation](https://www.arxiv.org/abs/2505.18630), **_arXiv_**, 2025.
 - [Enhancing Diagnostic Capability with Multi‑Agents Conversational LLMs](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
 - [LLMs Can Simulate Standardized Patients via Agent Co‑Evolution](https://arxiv.org/abs/2412.11716), **_arXiv_**, 2024.
+- [MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](https://arxiv.org/abs/2506.19835), **_ACL_**, 2025.
 - [MAP: Multi‑Agent Enhancement of LLMs for In‑Patient Pathways](https://arxiv.org/abs/2503.13205), **_arXiv_**, 2025.
 - [MC‑CoT: A Modular Collaborative Chain‑of‑Thought Framework for Zero‑Shot Medical VQA](https://arxiv.org/abs/2410.04521), **_arXiv_**, 2024.
 - [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision‑Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf), **_NeurIPS 2024_**, 2024.
