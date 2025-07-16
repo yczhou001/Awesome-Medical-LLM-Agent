@@ -34,7 +34,7 @@
 - [MedAlpaca—An Open‑Source Collection of Medical Conversational AI Models and Training Data](https://arxiv.org/abs/2304.08247), **_arXiv_**, 2023.
 - [HuatuoGPT: Taming Language Models to Be a Doctor](https://arxiv.org/abs/2305.15075), **_arXiv_**, 2023.
 - [DeID‑GPT: Zero‑Shot Medical Text De‑Identification by GPT‑4](https://arxiv.org/abs/2303.11032), **_arXiv_**, 2023.
-- [M3: Enhancing Vision‑Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
+- [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
 - [Can Generalist Foundation Models Out‑Compete Special‑Purpose Tuning? Case Study in Medicine](https://arxiv.org/abs/2311.16452), **_arXiv_**, 2023.
 - [From MedPrompt to o1: Exploration of Run‑Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590), **_arXiv_**, 2024.
 - [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2406.07001), **_arXiv_**, 2024.
