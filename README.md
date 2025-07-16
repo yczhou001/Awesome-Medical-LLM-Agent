@@ -94,7 +94,7 @@
 - [MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications](https://arxiv.org/abs/2501.14654), **_arXiv_**, 2025.
 - [AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments](https://arxiv.org/abs/2405.07960), **_arXiv_**, 2024.
 - [CliBench: A Multifaceted and Multigranular Evaluation of LLMs for Clinical Decision Making](https://arxiv.org/abs/2403.15255), **_arXiv_**, 2024.
-- [Baymax: A Survey of LLM‑Based Agents in Medicine – How Far Are We from Baymax?](https://arxiv.org/abs/2503.06512), **_arXiv_**, 2025.
+- [Baymax: A Survey of LLM‑Based Agents in Medicine – How Far Are We from Baymax?](https://arxiv.org/abs/2502.11211), **_arXiv_**, 2025.
 - [AI Hospital: Benchmarking LLMs in a Multi‑Agent Medical Interaction Simulator](https://arxiv.org/abs/2402.09742), **_arXiv_**, 2024.
 - [MedAgentsBench: Benchmarking Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/abs/2502.09771), **_arXiv_**, 2025.
 - [MedAgentBoard: Benchmarking Multi‑Agent Collaboration with Conventional Methods for Diverse Medical Tasks](https://arxiv.org/abs/2505.05777), **_arXiv_**, 2025.
