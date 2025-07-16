@@ -65,10 +65,10 @@
 - [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision‑Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf), **_NeurIPS 2024_**, 2024.
 - [ClinicalAgent: Clinical Trial Multi‑Agent System with LLM‑Based Reasoning](https://arxiv.org/abs/2404.14777), **_ACM BCB & Health Informatics_**, 2024.
 - [RareAgents: Autonomous Multi‑Disciplinary Team for Rare Disease Diagnosis and Treatment](https://arxiv.org/abs/2412.12475), **_arXiv_**, 2024.
-- [MAP: Multi‑Agent Enhancement of LLMs for In‑Patient Pathways](https://arxiv.org/abs/2502.06072), **_arXiv_**, 2025.
-- [MedDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis](https://arxiv.org/abs/2502.03011), **_arXiv_**, 2025.
-- [LLMs Can Simulate Standardized Patients via Agent Co‑Evolution](https://arxiv.org/abs/2403.08955), **_arXiv_**, 2024.
-- [PiORS: Personalized Intelligent Outpatient Reception Based on Multi‑Agents Medical Scenario Simulation](https://arxiv.org/abs/2403.11234), **_arXiv_**, 2024.
+- [MAP: Multi‑Agent Enhancement of LLMs for In‑Patient Pathways](https://arxiv.org/abs/2503.13205), **_arXiv_**, 2025.
+- [MedDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis](https://arxiv.org/abs/2502.19175), **_arXiv_**, 2025.
+- [LLMs Can Simulate Standardized Patients via Agent Co‑Evolution](https://arxiv.org/abs/2412.11716), **_arXiv_**, 2024.
+- [PiORS: Personalized Intelligent Outpatient Reception Based on Multi‑Agents Medical Scenario Simulation](https://arxiv.org/pdf/2411.13902), **_arXiv_**, 2024.
 - [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957), **_arXiv_**, 2024.
 - [PatientSim: A Persona‑Driven Simulator for Realistic Doctor‑Patient Interactions](https://arxiv.org/abs/2505.17818), **_arXiv_**, 2025.
 - [Dual‑Decision Optimization via Multi‑Agent Collaboration for LLM‑Based Medical Consultation](https://arxiv.org/abs/2501.07314), **_arXiv_**, 2025.
