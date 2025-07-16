@@ -71,17 +71,17 @@
 - [PiORS: Personalized Intelligent Outpatient Reception Based on Multi‑Agents Medical Scenario Simulation](https://arxiv.org/pdf/2411.13902), **_arXiv_**, 2024.
 - [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957), **_arXiv_**, 2024.
 - [PatientSim: A Persona‑Driven Simulator for Realistic Doctor‑Patient Interactions](https://arxiv.org/abs/2505.17818), **_arXiv_**, 2025.
-- [Dual‑Decision Optimization via Multi‑Agent Collaboration for LLM‑Based Medical Consultation](https://arxiv.org/abs/2501.07314), **_arXiv_**, 2025.
-- [MedAgents: LLMs as Collaborators for Zero‑Shot Medical Reasoning](https://arxiv.org/abs/2307.07328), **_arXiv_**, 2023.
-- [Beyond Direct Diagnosis: LLM‑Based Multi‑Specialist Agent Consultation for Automatic Diagnosis](https://arxiv.org/abs/2401.16107), **_arXiv_**, 2024.
-- [MedAide: Towards an Omni Medical Aide via Specialized LLM‑Based Multi‑Agent Collaboration](https://arxiv.org/abs/2406.04567), **_arXiv_**, 2024.
-- [MC‑CoT: A Modular Collaborative Chain‑of‑Thought Framework for Zero‑Shot Medical VQA](https://arxiv.org/abs/2405.05046), **_arXiv_**, 2024.
-- [AIPatient: Simulating Patients with EHRs and LLM‑Powered Agentic Workflow](https://arxiv.org/abs/2404.11700), **_arXiv_**, 2024.
-- [MedCoT: Medical Chain‑of‑Thought via Hierarchical Expert](https://arxiv.org/abs/2406.06121), **_arXiv_**, 2024.
-- [AKIBoards: A Structure‑Following Multi‑Agent System for Predicting Acute Kidney Injury](https://arxiv.org/abs/2503.08485), **_arXiv_**, 2025.
-- [Self‑Evolving Multi‑Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2502.04871), **_arXiv_**, 2025.
-- [Adaptive Reasoning and Acting in Medical Language Agents](https://arxiv.org/abs/2402.09122), **_arXiv_**, 2024.
-- [Rx Strategist: Prescription Verification Using LLM Agent Systems](https://arxiv.org/abs/2405.09877), **_arXiv_**, 2024.
+- [DDO: Dual-Decision Optimization via Multi-Agent Collaboration for LLM-Based Medical Consultation](https://www.arxiv.org/abs/2505.18630), **_arXiv_**, 2025.
+- [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537), **_arXiv_**, 2023.
+- [Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis](https://arxiv.org/abs/2401.16107), **_arXiv_**, 2024.
+- [MedAide: Towards an Omni Medical Aide via Specialized LLM‑Based Multi‑Agent Collaboration](https://arxiv.org/abs/2410.12532), **_arXiv_**, 2024.
+- [MC‑CoT: A Modular Collaborative Chain‑of‑Thought Framework for Zero‑Shot Medical VQA](https://arxiv.org/abs/2410.04521), **_arXiv_**, 2024.
+- [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/abs/2409.18924), **_arXiv_**, 2024.
+- [MedCoT: Medical Chain‑of‑Thought via Hierarchical Expert](https://arxiv.org/abs/2412.13736), **_arXiv_**, 2024.
+- [AKIBoards: A Structure‑Following Multi‑Agent System for Predicting Acute Kidney Injury](https://arxiv.org/abs/2504.20368), **_arXiv_**, 2025.
+- [Self‑Evolving Multi‑Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678), **_arXiv_**, 2025.
+- [Adaptive Reasoning and Acting in Medical Language Agents](https://arxiv.org/abs/2410.10020), **_arXiv_**, 2024.
+- [Rx Strategist: Prescription Verification Using LLM Agent Systems](https://arxiv.org/abs/2409.03440), **_arXiv_**, 2024.
 
 ## Medical LLM & Agent Survey & Benchmark
 - [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD 2024_**, 2024.
