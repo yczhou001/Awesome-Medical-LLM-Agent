@@ -37,7 +37,7 @@
 - [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
 - [Can Generalist Foundation Models Out‑Compete Special‑Purpose Tuning? Case Study in Medicine](https://arxiv.org/abs/2311.16452), **_arXiv_**, 2023.
 - [From MedPrompt to o1: Exploration of Run‑Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590), **_arXiv_**, 2024.
-- [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2406.07001), **_arXiv_**, 2024.
+- [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2407.08940), **_arXiv_**, 2024.
 - [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2404.08912), **_arXiv_**, 2024.
 - [Huatuo: Tuning LLaMA with Chinese Medical Knowledge](https://arxiv.org/abs/2307.02024), **_arXiv_**, 2023.
 - [CITRUS: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support](https://arxiv.org/abs/2503.01234), **_arXiv_**, 2025.
