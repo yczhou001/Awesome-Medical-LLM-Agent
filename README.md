@@ -56,12 +56,9 @@
 - [VoxelPrompt: A Vision‑Language Agent for Grounded Medical Image Analysis](https://arxiv.org/abs/2410.08397), **_arXiv_**, 2024.
 - ["My Nose Is Running." "Are You Also Coughing?": Building a Medical Diagnosis Agent with Interpretable Inquiry Logics](https://arxiv.org/abs/2204.13953), **_IJCAI 2022_**, 2022.
 - [EHRAgent: Code Empowers LLMs for Few‑Shot Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128), **_arXiv_**, 2024.
-- [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2404.08912), **_arXiv_**, 2024.
+- [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
 - [Augmentation of ChatGPT with Clinician‑Informed Tools Improves Performance on Medical Calculation Tasks](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1), **_medRxiv_**, 2023.
-- [Future Prospects of Agentic RAG in Medical Research](https://ssrn.com/abstract=4754423), **_SSRN_**, 2025.
-- [MMedAgent (Extended Preprint)](https://arxiv.org/abs/2402.06703), **_arXiv_**, 2024.
-- [VoxelPrompt (M.S. Thesis)](https://dspace.mit.edu/bitstream/handle/1721.1/158933/hoopes-hoopes-sm-eecs-2025-thesis.pdf), **_MIT EECS Thesis_**, 2025.
-- [Autonomous Agents for Clinical Calculations (Preprint)](https://pubmed.ncbi.nlm.nih.gov/40097720/), **_NPJ Digital Medicine_**, 2025.
+- [Future Prospects of Agentic RAG in Medical Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5212343), **_SSRN_**, 2025.
 
 ## Medical Multi Agent
 - [Enhancing Diagnostic Capability with Multi‑Agents Conversational LLMs](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
