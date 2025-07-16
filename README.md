@@ -38,12 +38,12 @@
 - [Can Generalist Foundation Models Out‑Compete Special‑Purpose Tuning? Case Study in Medicine](https://arxiv.org/abs/2311.16452), **_arXiv_**, 2023.
 - [From MedPrompt to o1: Exploration of Run‑Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590), **_arXiv_**, 2024.
 - [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2407.08940), **_arXiv_**, 2024.
-- [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2404.08912), **_arXiv_**, 2024.
-- [Huatuo: Tuning LLaMA with Chinese Medical Knowledge](https://arxiv.org/abs/2307.02024), **_arXiv_**, 2023.
-- [CITRUS: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support](https://arxiv.org/abs/2503.01234), **_arXiv_**, 2025.
-- [Chain‑of‑Thought Prompting Strategies for Medical Error Detection and Correction](https://arxiv.org/abs/2402.08155), **_arXiv_**, 2024.
-- [CoD: Towards an Interpretable Medical Agent Using Chain of Diagnosis](https://arxiv.org/abs/2405.04400), **_arXiv_**, 2024.
-- [GatorTron: A Large Clinical Language Model to Unlock Patient Information from Unstructured EHRs](https://arxiv.org/abs/2205.02555), **_arXiv_**, 2022.
+- [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
+- [Huatuo: Tuning LLaMA with Chinese Medical Knowledge](https://arxiv.org/abs/2304.06975), **_arXiv_**, 2023.
+- [CITRUS: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support](https://arxiv.org/abs/2502.18274), **_arXiv_**, 2025.
+- [Chain‑of‑Thought Prompting Strategies for Medical Error Detection and Correction](https://arxiv.org/abs/2406.09103), **_arXiv_**, 2024.
+- [CoD: Towards an Interpretable Medical Agent Using Chain of Diagnosis](https://arxiv.org/abs/2407.13301), **_arXiv_**, 2024.
+- [GatorTron: A Large Clinical Language Model to Unlock Patient Information from Unstructured EHRs](https://arxiv.org/abs/2203.03540), **_arXiv_**, 2022.
 
 ## Medical Single Agent
 - [Large Language Model Agents Can Use Tools to Perform Clinical Calculations](https://www.nature.com/articles/s41746-025-01475-8), **_NPJ Digital Medicine_**, 2025.
