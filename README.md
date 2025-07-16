@@ -86,7 +86,7 @@
 - [Adaptive Reasoning and Acting in Medical Language Agents](https://arxiv.org/abs/2402.09122), **_arXiv_**, 2024.
 - [Rx Strategist: Prescription Verification Using LLM Agent Systems](https://arxiv.org/abs/2405.09877), **_arXiv_**, 2024.
 
-## Medical Survey & Benchmark
+## Medical LLM & Agent Survey & Benchmark
 - [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD 2024_**, 2024.
 - [EHRNoteQA: An LLM Benchmark for Real‑World Clinical Practice Using Discharge Summaries](https://proceedings.neurips.cc/paper_files/paper/2024/file/e15c4afff22f12c4986c1fcb4e941e03-Paper.pdf), **_NeurIPS 2024_**, 2024.
 - [MediQ: Question‑Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning](https://arxiv.org/abs/2406.00922), **_NeurIPS 2024_**, 2024.
