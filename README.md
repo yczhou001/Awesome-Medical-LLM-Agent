@@ -52,7 +52,7 @@
 - [KGARevion: An AI Agent for Knowledge‑Intensive Biomedical Question Answering](https://arxiv.org/abs/2410.04660), **_ICLR_**, 2025.
 - [Almanac—Retrieval‑Augmented Language Models for Clinical Medicine](https://ai.nejm.org/doi/full/10.1056/AIoa2300068), **_NEJM AI_**, 2024.
 - [DrHouse: An LLM‑Empowered Diagnostic Reasoning System](https://arxiv.org/abs/2405.12541), **_PACM IMWUT_**, 2024.
-- [Autonomous AI Agents for Clinical Decision Making in Oncology](https://arxiv.org/abs/2403.09321), **_arXiv_**, 2024.
+- [Autonomous Artificial Intelligence Agents for Clinical Decision Making in Oncology](https://arxiv.org/html/2404.04667v1), **_arXiv_**, 2024.
 - [VoxelPrompt: A Vision‑Language Agent for Grounded Medical Image Analysis](https://arxiv.org/abs/2410.08397), **_arXiv_**, 2024.
 - ["My Nose Is Running." "Are You Also Coughing?": Building a Medical Diagnosis Agent with Interpretable Inquiry Logics](https://arxiv.org/abs/2204.13953), **_IJCAI 2022_**, 2022.
 - [EHRAgent: Code Empowers LLMs for Few‑Shot Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128), **_arXiv_**, 2024.
