@@ -88,7 +88,7 @@
 
 ## Medical LLM & Agent Survey & Benchmark
 - [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD 2024_**, 2024.
-- [EHRNoteQA: An LLM Benchmark for Real‑World Clinical Practice Using Discharge Summaries](https://proceedings.neurips.cc/paper_files/paper/2024/file/e15c4afff22f12c4986c1fcb4e941e03-Paper.pdf), **_NeurIPS 2024_**, 2024.
+- [EHRNoteQA: An LLM Benchmark for Real‑World Clinical Practice Using Discharge Summaries](https://proceedings.neurips.cc/paper_files/paper/2024/file/e15c4afff22f12c4986c1fcb4e941e03-Paper-Datasets_and_Benchmarks_Track.pdf), **_NeurIPS 2024_**, 2024.
 - [MediQ: Question‑Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning](https://arxiv.org/abs/2406.00922), **_NeurIPS 2024_**, 2024.
 - [WHO Guidance: Ethics and Governance of Artificial Intelligence for Health – Large Multi‑Modal Models](https://www.who.int/publications/i/item/9789240084759), **_World Health Organization_**, 2024.
 - [MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications](https://arxiv.org/abs/2501.14654), **_arXiv_**, 2025.
