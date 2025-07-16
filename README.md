@@ -26,7 +26,7 @@
 - [Towards Expert‑Level Medical Question Answering with Large Language Models](https://www.nature.com/articles/s41591-024-03423-7), **_Nature Medicine_**, 2025.
 - [Towards Generalist Biomedical AI](https://ai.nejm.org/doi/full/10.1056/AIoa2300138), **_NEJM AI_**, 2024.
 - [Closing the Gap Between Open‑Source and Commercial LLMs for Medical Evidence Summarization](https://www.nature.com/articles/s41746-024-01239-w), **_NPJ Digital Medicine_**, 2024.
-- [Beyond Self‑Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging](https://arxiv.org/abs/2404.13149), **_AIME 2024_**, 2024.
+- [Beyond Self‑Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging](https://arxiv.org/abs/2404.13149), **_AIME_**, 2024.
 - [Hidden Flaws Behind Expert‑Level Accuracy of Multimodal GPT‑4 Vision in Medicine](https://www.nature.com/articles/s41746-024-01185-7), **_NPJ Digital Medicine_**, 2024.
 - [HuatuoGPT‑o1: Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925), **_arXiv_**, 2024.
 - [ELMTEX: Fine‑Tuning Large Language Models for Structured Clinical Information Extraction](https://arxiv.org/abs/2502.05638), **_arXiv_**, 2025.
@@ -85,8 +85,8 @@
 
 ## Medical LLM & Agent Survey & Benchmark
 - [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD 2024_**, 2024.
-- [EHRNoteQA: An LLM Benchmark for Real‑World Clinical Practice Using Discharge Summaries](https://proceedings.neurips.cc/paper_files/paper/2024/file/e15c4afff22f12c4986c1fcb4e941e03-Paper-Datasets_and_Benchmarks_Track.pdf), **_NeurIPS 2024_**, 2024.
-- [MediQ: Question‑Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning](https://arxiv.org/abs/2406.00922), **_NeurIPS 2024_**, 2024.
+- [EHRNoteQA: An LLM Benchmark for Real‑World Clinical Practice Using Discharge Summaries](https://proceedings.neurips.cc/paper_files/paper/2024/file/e15c4afff22f12c4986c1fcb4e941e03-Paper-Datasets_and_Benchmarks_Track.pdf), **_NeurIPS_**, 2024.
+- [MediQ: Question‑Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning](https://arxiv.org/abs/2406.00922), **_NeurIPS_**, 2024.
 - [WHO Guidance: Ethics and Governance of Artificial Intelligence for Health – Large Multi‑Modal Models](https://www.who.int/publications/i/item/9789240084759), **_World Health Organization_**, 2024.
 - [MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications](https://arxiv.org/abs/2501.14654), **_arXiv_**, 2025.
 - [AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments](https://arxiv.org/abs/2405.07960), **_arXiv_**, 2024.
