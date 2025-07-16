@@ -62,7 +62,7 @@
 
 ## Medical Multi Agent
 - [Enhancing Diagnostic Capability with Multi‑Agents Conversational LLMs](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
-- [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision‑Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper.pdf), **_NeurIPS 2024_**, 2024.
+- [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision‑Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf), **_NeurIPS 2024_**, 2024.
 - [ClinicalAgent: Clinical Trial Multi‑Agent System with LLM‑Based Reasoning](https://arxiv.org/abs/2404.14777), **_ACM BCB & Health Informatics_**, 2024.
 - [RareAgents: Autonomous Multi‑Disciplinary Team for Rare Disease Diagnosis and Treatment](https://arxiv.org/abs/2412.12475), **_arXiv_**, 2024.
 - [MAP: Multi‑Agent Enhancement of LLMs for In‑Patient Pathways](https://arxiv.org/abs/2502.06072), **_arXiv_**, 2025.
