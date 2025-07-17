@@ -135,6 +135,7 @@
 - [Generalization in Healthcare AI: Evaluation of a Clinical LLM](https://arxiv.org/abs/2402.10965), **_arXiv_**, 2024.
 - [Improving Clinical Documentation with AI: A Comparative Study of Sporo AI Scribe and GPT-4o mini](https://arxiv.org/pdf/2410.15528), **_arXiv_**, 2024.
 - [KG4Diagnosis: A Hierarchical Multi-Agent Ilm Framework With Knowledge Graph Enhancement for Medical Diagnosis](), **_AAAI_**, 2025.
+- [LLM-Based Agentic Systems in Medicine and Healthcare](https://www.nature.com/articles/s42256-024-00944-1), **_Nature Machine Intelligence volume_**, 2024.
 - [MediQ: Question‑Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning](https://arxiv.org/abs/2406.00922), **_NeurIPS_**, 2024.
 - [MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications](https://arxiv.org/abs/2501.14654), **_arXiv_**, 2025.
 - [MedAgentBoard: Benchmarking Multi‑Agent Collaboration with Conventional Methods for Diverse Medical Tasks](https://arxiv.org/abs/2505.12371), **_arXiv_**, 2025.
