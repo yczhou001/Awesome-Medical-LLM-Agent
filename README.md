@@ -60,11 +60,13 @@
 - [MED‑Prompt: A Novel Prompt Engineering Framework for Medicine Prediction on Free‑Text Clinical Notes](https://www.sciencedirect.com/science/article/pii/S1319157824000223), **_Journal of King Saud University – Computer & Information Sciences_**, 2024.
 - [Medical Reasoning in LLMs: An In‑Depth Analysis of DeepSeek R1](https://www.frontiersin.org/articles/10.3389/frai.2025.1616145), **_Frontiers in Artificial Intelligence_**, 2025.
 - [MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis](https://arxiv.org/abs/2407.04106v1), **_arXiv_**, 2024.
+- [MOSS-MED: A Family of Multimodal Models Serving Medical Image Analysis](https://dl.acm.org/doi/10.1145/3688005), **_ACM Transactions on Management Information Systems_**, 2025.
 - [OpenMedLM: Prompt Engineering Can Out‑Perform Fine‑Tuning in Medical Question‑Answering with Open‑Source LLMs](https://www.nature.com/articles/s41598-024-64827-6), **_Scientific Reports_**, 2024.
 - [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue](https://www.sciencedirect.com/science/article/pii/S0933365724002434), **_Artificial Intelligence in Medicine_**, 2024.
 - [Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost](https://arxiv.org/abs/2306.10765), **_arXiv_**, 2023.
 - [PMC-LLaMA: Towards Building Open-source Language Models for Medicine](https://academic.oup.com/jamia/article-abstract/31/9/1833/7645318?redirectedFrom=fulltext), **_Journal of the American Medical Informatics Association_**, 2024.
 - [Polaris: A Safety-Focused LLM Constellation Architecture for Healthcare](https://arxiv.org/pdf/2403.13313), **_arXiv_**, 2024.
+- [Pre-trained multimodal large language model enhances dermatological diagnosis using SkinGPT-4](https://www.nature.com/articles/s41467-024-50043-3), **_Nature Communications_**, 2024.
 - [Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model](https://arxiv.org/abs/2310.09089), **_arXiv_**, 2023.
 - [Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare](https://arxiv.org/abs/2310.17956), **_arXiv_**, 2023.
 - [Reasoning with Large Language Models for Medical Question Answering](https://pubmed.ncbi.nlm.nih.gov/38960731/), **_Journal of the American Medical Informatics Association_**, 2024.
@@ -72,6 +74,7 @@
 - [Thinking About GPT‑3 In‑Context Learning for Biomedical IE? Think Again](https://arxiv.org/abs/2203.08410), **_arXiv_**, 2022.
 - [Towards Expert‑Level Medical Question Answering with Large Language Models](https://www.nature.com/articles/s41591-024-03423-7), **_Nature Medicine_**, 2025.
 - [Towards Generalist Biomedical AI](https://ai.nejm.org/doi/full/10.1056/AIoa2300138), **_NEJM AI_**, 2024.
+- [Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data](https://arxiv.org/abs/2308.02463), **_arXiv_**, 2023.
 - [Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems With Large Language Models](https://openreview.net/pdf?id=4c5rg9y4me), **_arXiv_**, 2024.
 - [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
 - [Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities](https://github.com/cambridgeltl/visual-med-alpaca), 2024.
