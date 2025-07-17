@@ -85,6 +85,7 @@
 - [KGARevion: An AI Agent for Knowledge‑Intensive Biomedical Question Answering](https://arxiv.org/abs/2410.04660), **_ICLR_**, 2025.
 - [Large Language Model Agents Can Use Tools to Perform Clinical Calculations](https://www.nature.com/articles/s41746-025-01475-8), **_NPJ Digital Medicine_**, 2025.
 - [MMedAgent: Learning to Use Medical Tools with Multi‑Modal Agent](https://aclanthology.org/2024.findings-emnlp.510/), **_EMNLP Findings_**, 2024.
+- [MeNTi: Bridging Medical Calculator and LLM Agent With Nested Tool Calling](https://arxiv.org/pdf/2410.13610), **_NAACL_**, 2025.
 - ["My Nose Is Running." "Are You Also Coughing?": Building a Medical Diagnosis Agent with Interpretable Inquiry Logics](https://arxiv.org/abs/2204.13953), **_IJCAI 2022_**, 2022.
 - [VoxelPrompt: A Vision‑Language Agent for Grounded Medical Image Analysis](https://arxiv.org/abs/2410.08397), **_arXiv_**, 2024.
 
