@@ -13,6 +13,7 @@
 - [Agentic LLM Workflows for Generating Patient-Friendly Medical Reports](https://arxiv.org/pdf/2408.01112), **_arXiv_**, 2024.
 - [A Foundational Multimodal Vision Language AI Assistant for Human Pathology](https://arxiv.org/abs/2312.07814), **_arXiv_**, 2023.
 - [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2), **_Nature Medicine_**, 2024.
+- [A study of generative large language model for medical research and healthcare](https://www.nature.com/articles/s41746-023-00958-w  ), **_NPJ Digital Medicine_**, 2023.
 - [Beyond Self‑Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging](https://arxiv.org/abs/2404.13149), **_AIME_**, 2024.
 - [BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT](https://arxiv.org/abs/2310.15896), **_arXiv_**, 2023.
 - [BioGPT: Generative Pre‑Trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/abs/2210.10341), **_Briefings in Bioinformatics_**, 2022.
@@ -47,14 +48,18 @@
 - [HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale](https://aclanthology.org/2024.emnlp-main.418.pdf), **_EMNLP_**, 2024.
 - [Improving Medical Large Vision-Language Models with Abnormal-Aware Feedback](https://arxiv.org/abs/2501.01377), **_ACL_**, 2025.
 - [IvyGPT: InteractiVe Chinese Pathway Language Model in Medical Domain](https://link.springer.com/chapter/10.1007/978-981-99-9119-8_34), **_CICAI 2023_**, 2024.
+- [Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Trustworthy Response Generation in Chinese](https://dl.acm.org/doi/10.1145/3686807  ), **_ACM Transactions on Knowledge Discovery from Data_**, 2025.
 - [Large Language Model‑Informed ECG Dual Attention Network for Heart Failure Risk Prediction](https://arxiv.org/abs/2403.10581), **_IEEE Transactions on Big Data_**, 2025.
 - [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2407.08940), **_arXiv_**, 2024.
 - [Large Language Models Encode Clinical Knowledge](https://www.nature.com/articles/s41586-023-06291-2), **_Nature_**, 2023.
 - [Med-Flamingo: a Multimodal Medical Few-shot Learner](https://proceedings.mlr.press/v225/moor23a.html), **_Proceedings of the 3rd Machine Learning for Health Symposium, PMLR 225:353-367_**, 2023.
 - [MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records](https://arxiv.org/abs/2308.14089), **_arXiv_**, 2023.
 - [MedAlpaca—An Open‑Source Collection of Medical Conversational AI Models and Training Data](https://arxiv.org/abs/2304.08247), **_arXiv_**, 2023.
+- [MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts](https://arxiv.org/abs/2305.10799  ), **_arXiv_**, 2023.
+- [MedGemma Technical Report](https://arxiv.org/abs/2507.05201), **_arXiv_**, 2025.
 - [MED‑Prompt: A Novel Prompt Engineering Framework for Medicine Prediction on Free‑Text Clinical Notes](https://www.sciencedirect.com/science/article/pii/S1319157824000223), **_Journal of King Saud University – Computer & Information Sciences_**, 2024.
 - [Medical Reasoning in LLMs: An In‑Depth Analysis of DeepSeek R1](https://www.frontiersin.org/articles/10.3389/frai.2025.1616145), **_Frontiers in Artificial Intelligence_**, 2025.
+- [MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis](https://arxiv.org/abs/2407.04106v1), **_arXiv_**, 2024.
 - [OpenMedLM: Prompt Engineering Can Out‑Perform Fine‑Tuning in Medical Question‑Answering with Open‑Source LLMs](https://www.nature.com/articles/s41598-024-64827-6), **_Scientific Reports_**, 2024.
 - [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue](https://www.sciencedirect.com/science/article/pii/S0933365724002434), **_Artificial Intelligence in Medicine_**, 2024.
 - [Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost](https://arxiv.org/abs/2306.10765), **_arXiv_**, 2023.
@@ -67,8 +72,8 @@
 - [Thinking About GPT‑3 In‑Context Learning for Biomedical IE? Think Again](https://arxiv.org/abs/2203.08410), **_arXiv_**, 2022.
 - [Towards Expert‑Level Medical Question Answering with Large Language Models](https://www.nature.com/articles/s41591-024-03423-7), **_Nature Medicine_**, 2025.
 - [Towards Generalist Biomedical AI](https://ai.nejm.org/doi/full/10.1056/AIoa2300138), **_NEJM AI_**, 2024.
-- [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
 - [Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems With Large Language Models](https://openreview.net/pdf?id=4c5rg9y4me), **_arXiv_**, 2024.
+- [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
 - [Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities](https://github.com/cambridgeltl/visual-med-alpaca), 2024.
 - [XrayGLM: The first Chinese Medical Multimodal Model that Chest Radiographs Summarization](https://github.com/WangRongsheng/XrayGLM), 2023.
 - [XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/abs/2306.07971), **_ACL 2024-BIONLP Workshop_**, 2024.
