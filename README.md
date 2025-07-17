@@ -50,7 +50,6 @@
 - [Large Language Model‑Informed ECG Dual Attention Network for Heart Failure Risk Prediction](https://arxiv.org/abs/2403.10581), **_IEEE Transactions on Big Data_**, 2025.
 - [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2407.08940), **_arXiv_**, 2024.
 - [Large Language Models Encode Clinical Knowledge](https://www.nature.com/articles/s41586-023-06291-2), **_Nature_**, 2023.
-- [M$^3$-Med: A Benchmark for Multi-lingual, Multi-modal, and Multi-hop Reasoning in Medical Instructional Video Understanding](https://arxiv.org/abs/2507.04289), **_arXiv_**, 2025.
 - [MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation](https://arxiv.org/abs/2507.06992), **_arXiv_**, 2025.
 - [Med-Flamingo: a Multimodal Medical Few-shot Learner](https://proceedings.mlr.press/v225/moor23a.html), **_Proceedings of the 3rd Machine Learning for Health Symposium, PMLR 225:353-367_**, 2023.
 - [MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records](https://arxiv.org/abs/2308.14089), **_arXiv_**, 2023.
@@ -152,6 +151,7 @@
 - [Improving Clinical Documentation with AI: A Comparative Study of Sporo AI Scribe and GPT-4o mini](https://arxiv.org/pdf/2410.15528), **_arXiv_**, 2024.
 - [KG4Diagnosis: A Hierarchical Multi-Agent Ilm Framework With Knowledge Graph Enhancement for Medical Diagnosis](), **_AAAI_**, 2025.
 - [LLM-Based Agentic Systems in Medicine and Healthcare](https://www.nature.com/articles/s42256-024-00944-1), **_Nature Machine Intelligence volume_**, 2024.
+- [M$^3$-Med: A Benchmark for Multi-lingual, Multi-modal, and Multi-hop Reasoning in Medical Instructional Video Understanding](https://arxiv.org/abs/2507.04289), **_arXiv_**, 2025.
 - [MediQ: Question‑Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning](https://arxiv.org/abs/2406.00922), **_NeurIPS_**, 2024.
 - [MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications](https://arxiv.org/abs/2501.14654), **_arXiv_**, 2025.
 - [MedAgentBoard: Benchmarking Multi‑Agent Collaboration with Conventional Methods for Diverse Medical Tasks](https://arxiv.org/abs/2505.12371), **_arXiv_**, 2025.
