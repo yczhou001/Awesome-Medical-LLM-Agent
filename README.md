@@ -10,7 +10,6 @@
 
 
 ## Medical LLM
-- [Agentic LLM Workflows for Generating Patient-Friendly Medical Reports](https://arxiv.org/pdf/2408.01112), **_arXiv_**, 2024.
 - [A Foundational Multimodal Vision Language AI Assistant for Human Pathology](https://arxiv.org/abs/2312.07814), **_arXiv_**, 2023.
 - [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2), **_Nature Medicine_**, 2024.
 - [A study of generative large language model for medical research and healthcare](https://www.nature.com/articles/s41746-023-00958-w  ), **_NPJ Digital Medicine_**, 2023.
@@ -27,7 +26,6 @@
 - [CITRUS: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support](https://arxiv.org/abs/2502.18274), **_arXiv_**, 2025.
 - [ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation](https://arxiv.org/abs/2306.09968), **_arXiv_**, 2023.
 - [Closing the Gap Between Open‑Source and Commercial LLMs for Medical Evidence Summarization](https://www.nature.com/articles/s41746-024-01239-w), **_NPJ Digital Medicine_**, 2024.
-- [CoD: Towards an Interpretable Medical Agent Using Chain of Diagnosis](https://arxiv.org/abs/2407.13301), **_arXiv_**, 2024.
 - [CXR-LLAVA: a multimodal large language model for interpreting chest X-ray images](https://arxiv.org/abs/2310.18341), **_arXiv_**, 2023.
 - [DeID‑GPT: Zero‑Shot Medical Text De‑Identification by GPT‑4](https://arxiv.org/abs/2303.11032), **_arXiv_**, 2023.
 - [DeepSeek Deployed in 90 Chinese Tertiary Hospitals: How Artificial Intelligence Is Transforming Clinical Practice](https://link.springer.com/article/10.1007/s10916-025-02181-4), **_Journal of Medical Systems_**, 2025.
@@ -77,7 +75,6 @@
 - [Towards Generalist Biomedical AI](https://ai.nejm.org/doi/full/10.1056/AIoa2300138), **_NEJM AI_**, 2024.
 - [Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data](https://arxiv.org/abs/2308.02463), **_arXiv_**, 2023.
 - [Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems With Large Language Models](https://openreview.net/pdf?id=4c5rg9y4me), **_arXiv_**, 2024.
-- [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
 - [Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities](https://github.com/cambridgeltl/visual-med-alpaca), 2024.
 - [XrayGLM: The first Chinese Medical Multimodal Model that Chest Radiographs Summarization](https://github.com/WangRongsheng/XrayGLM), 2023.
 - [XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/abs/2306.07971), **_ACL 2024-BIONLP Workshop_**, 2024.
@@ -88,6 +85,7 @@
 - [Almanac—Retrieval‑Augmented Language Models for Clinical Medicine](https://ai.nejm.org/doi/full/10.1056/AIoa2300068), **_NEJM AI_**, 2024.
 - [Augmentation of ChatGPT with Clinician‑Informed Tools Improves Performance on Medical Calculation Tasks](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1), **_medRxiv_**, 2023.
 - [Autonomous Artificial Intelligence Agents for Clinical Decision Making in Oncology](https://arxiv.org/html/2404.04667v1), **_arXiv_**, 2024.
+- [CoD: Towards an Interpretable Medical Agent Using Chain of Diagnosis](https://arxiv.org/abs/2407.13301), **_arXiv_**, 2024.
 - [DrHouse: An LLM‑Empowered Diagnostic Reasoning System](https://arxiv.org/abs/2405.12541), **_PACM IMWUT_**, 2024.
 - [EHRAgent: Code Empowers LLMs for Few‑Shot Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128), **_arXiv_**, 2024.
 - [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
@@ -100,12 +98,14 @@
 - ["My Nose Is Running." "Are You Also Coughing?": Building a Medical Diagnosis Agent with Interpretable Inquiry Logics](https://arxiv.org/abs/2204.13953), **_IJCAI 2022_**, 2022.
 - [Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](https://arxiv.org/pdf/2411.14461), **_arXiv_**, 2024.
 - [VoxelPrompt: A Vision‑Language Agent for Grounded Medical Image Analysis](https://arxiv.org/abs/2410.08397), **_arXiv_**, 2024.
+- [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
 
 
 ## Medical Multi Agent
 - [A Dual-Agent Collaboration Framework Based on Ilms for Nursing Robots to Perform Bimanual Coordination Tasks](https://ieeexplore.ieee.org/document/10852163), **_ICRA_**, 2025.
 - [Adaptive Reasoning and Acting in Medical Language Agents](https://arxiv.org/abs/2410.10020), **_arXiv_**, 2024.
 - [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957), **_arXiv_**, 2024.
+- [Agentic LLM Workflows for Generating Patient-Friendly Medical Reports](https://arxiv.org/pdf/2408.01112), **_arXiv_**, 2024.
 - [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/abs/2409.18924), **_arXiv_**, 2024.
 - [AKIBoards: A Structure‑Following Multi‑Agent System for Predicting Acute Kidney Injury](https://arxiv.org/abs/2504.20368), **_arXiv_**, 2025.
 - [Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis](https://arxiv.org/abs/2401.16107), **_arXiv_**, 2024.
