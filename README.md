@@ -31,6 +31,7 @@
 - [DeID‑GPT: Zero‑Shot Medical Text De‑Identification by GPT‑4](https://arxiv.org/abs/2303.11032), **_arXiv_**, 2023.
 - [DeepSeek Deployed in 90 Chinese Tertiary Hospitals: How Artificial Intelligence Is Transforming Clinical Practice](https://link.springer.com/article/10.1007/s10916-025-02181-4), **_Journal of Medical Systems_**, 2025.
 - [Diagnostic Reasoning Prompts Reveal the Potential for LLM Interpretability in Medicine](https://www.nature.com/articles/s41746-024-01010-1), **_NPJ Digital Medicine_**, 2024.
+- [DiagX-DT: diagnostic exclusion reasoning with dialectical thinking for traditional Chinese medicine in large language models](https://link.springer.com/article/10.1007/s44443-025-00123-1), **_Journal of King Saud University Computer and Information Sciences_**, 2025.
 - [DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation](https://arxiv.org/abs/2308.14346), **_arXiv_**, 2023.
 - [DoctorGLM: Fine‑tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/abs/2304.01097), ***arXiv***, 2023.
 - [ELMTEX: Fine‑Tuning Large Language Models for Structured Clinical Information Extraction](https://arxiv.org/abs/2502.05638), **_arXiv_**, 2025.
