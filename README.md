@@ -59,6 +59,7 @@
 - [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue](https://www.sciencedirect.com/science/article/pii/S0933365724002434), **_Artificial Intelligence in Medicine_**, 2024.
 - [Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost](https://arxiv.org/abs/2306.10765), **_arXiv_**, 2023.
 - [PMC-LLaMA: Towards Building Open-source Language Models for Medicine](https://academic.oup.com/jamia/article-abstract/31/9/1833/7645318?redirectedFrom=fulltext), **_Journal of the American Medical Informatics Association_**, 2024.
+- [Polaris: A Safety-Focused LLM Constellation Architecture for Healthcare](https://arxiv.org/pdf/2403.13313), **_arXiv_**, 2024.
 - [Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model](https://arxiv.org/abs/2310.09089), **_arXiv_**, 2023.
 - [Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare](https://arxiv.org/abs/2310.17956), **_arXiv_**, 2023.
 - [Reasoning with Large Language Models for Medical Question Answering](https://pubmed.ncbi.nlm.nih.gov/38960731/), **_Journal of the American Medical Informatics Association_**, 2024.
