@@ -148,6 +148,7 @@
 - [Mitigating Cognitive Biases in Clinical Decision-Making Through Multi-Agent Conversations Using Large Language Models: Simulation Study](https://www.jmir.org/2024/1/e59439), **_Journal of Medical Internet Research_**, 2024.
 - [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD 2024_**, 2024.
 - [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019), **_EMNLP_**, 2024.
+- [Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm](https://arxiv.org/pdf/2403.16446), **_arXiv_**, 2024.
 - [WHO Guidance: Ethics and Governance of Artificial Intelligence for Health – Large Multi‑Modal Models](https://www.who.int/publications/i/item/9789240084759), **_World Health Organization_**, 2024.
 
 
