@@ -118,6 +118,7 @@
 - [RareAgents: Autonomous Multi‑Disciplinary Team for Rare Disease Diagnosis and Treatment](https://arxiv.org/abs/2412.12475), **_arXiv_**, 2024.
 - [Rx Strategist: Prescription Verification Using LLM Agent Systems](https://arxiv.org/abs/2409.03440), **_arXiv_**, 2024.
 - [Self‑Evolving Multi‑Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678), **_arXiv_**, 2025.
+- [SurgBox: Agent-Driven Operating Room Sandbox With Surgery Copilot](https://arxiv.org/pdf/2412.05187), **_arXiv_**, 2024.
 
 
 ## Medical LLM & Agent Survey & Benchmark
