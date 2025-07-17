@@ -68,6 +68,7 @@
 - [Towards Expert‑Level Medical Question Answering with Large Language Models](https://www.nature.com/articles/s41591-024-03423-7), **_Nature Medicine_**, 2025.
 - [Towards Generalist Biomedical AI](https://ai.nejm.org/doi/full/10.1056/AIoa2300138), **_NEJM AI_**, 2024.
 - [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
+- [Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems With Large Language Models](https://openreview.net/pdf?id=4c5rg9y4me), **_arXiv_**, 2024.
 - [Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities](https://github.com/cambridgeltl/visual-med-alpaca), 2024.
 - [XrayGLM: The first Chinese Medical Multimodal Model that Chest Radiographs Summarization](https://github.com/WangRongsheng/XrayGLM), 2023.
 - [XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/abs/2306.07971), **_ACL 2024-BIONLP Workshop_**, 2024.
