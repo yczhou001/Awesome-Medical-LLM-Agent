@@ -10,6 +10,7 @@
 
 
 ## Medical LLM
+- [A Dual-Agent Collaboration Framework Based on Ilms for Nursing Robots to Perform Bimanual Coordination Tasks](https://ieeexplore.ieee.org/document/10852163), **_ICRA_**, 2025.
 - [A Foundational Multimodal Vision Language AI Assistant for Human Pathology](https://arxiv.org/abs/2312.07814), **_arXiv_**, 2023.
 - [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2), **_Nature Medicine_**, 2024.
 - [Beyond Self‑Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging](https://arxiv.org/abs/2404.13149), **_AIME_**, 2024.
@@ -90,6 +91,7 @@
 
 ## Medical Multi Agent
 - [Adaptive Reasoning and Acting in Medical Language Agents](https://arxiv.org/abs/2410.10020), **_arXiv_**, 2024.
+- [Addressing Cognitive Bias in Medical Language Models](https://arxiv.org/pdf/2402.08113), **_arXiv_**, 2024.
 - [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957), **_arXiv_**, 2024.
 - [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/abs/2409.18924), **_arXiv_**, 2024.
 - [AKIBoards: A Structure‑Following Multi‑Agent System for Predicting Acute Kidney Injury](https://arxiv.org/abs/2504.20368), **_arXiv_**, 2025.
