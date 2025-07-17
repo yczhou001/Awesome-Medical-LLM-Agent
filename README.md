@@ -64,6 +64,7 @@
 - [OpenMedLM: Prompt Engineering Can Out‑Perform Fine‑Tuning in Medical Question‑Answering with Open‑Source LLMs](https://www.nature.com/articles/s41598-024-64827-6), **_Scientific Reports_**, 2024.
 - [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue](https://www.sciencedirect.com/science/article/pii/S0933365724002434), **_Artificial Intelligence in Medicine_**, 2024.
 - [Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost](https://arxiv.org/abs/2306.10765), **_arXiv_**, 2023.
+- [PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fa5b423e24b442180bcd4e13ae75a27f-Abstract-Conference.html), **_NeurIPS_**, 2024.
 - [PMC-LLaMA: Towards Building Open-source Language Models for Medicine](https://academic.oup.com/jamia/article-abstract/31/9/1833/7645318?redirectedFrom=fulltext), **_Journal of the American Medical Informatics Association_**, 2024.
 - [Polaris: A Safety-Focused LLM Constellation Architecture for Healthcare](https://arxiv.org/pdf/2403.13313), **_arXiv_**, 2024.
 - [Pre-trained multimodal large language model enhances dermatological diagnosis using SkinGPT-4](https://www.nature.com/articles/s41467-024-50043-3), **_Nature Communications_**, 2024.
