@@ -130,6 +130,7 @@
 - [CliBench: A Multifaceted and Multigranular Evaluation of LLMs for Clinical Decision Making](https://arxiv.org/abs/2403.15255), **_arXiv_**, 2024.
 - [EHRNoteQA: An LLM Benchmark for Real‑World Clinical Practice Using Discharge Summaries](https://proceedings.neurips.cc/paper_files/paper/2024/file/e15c4afff22f12c4986c1fcb4e941e03-Paper-Datasets_and_Benchmarks_Track.pdf), **_NeurIPS_**, 2024.
 - [Evaluating Large Language Models as Agents in the Clinic](https://www.nature.com/articles/s41746-024-01083-y), **_npj Digital Medicine_**, 2024.
+- [Exploring LLM-based Data Annotation Strategies for Medical Dialogue Preference Alignment](https://arxiv.org/pdf/2410.04112), **_arXiv_**, 2024.
 - [Generalization in Healthcare AI: Evaluation of a Clinical LLM](https://arxiv.org/abs/2402.10965), **_arXiv_**, 2024.
 - [MediQ: Question‑Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning](https://arxiv.org/abs/2406.00922), **_NeurIPS_**, 2024.
 - [MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications](https://arxiv.org/abs/2501.14654), **_arXiv_**, 2025.
