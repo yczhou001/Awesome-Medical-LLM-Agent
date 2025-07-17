@@ -143,6 +143,7 @@
 - [MedAgentsBench: Benchmarking Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/abs/2503.07459), **_arXiv_**, 2025.
 - [MedChain: Bridging the Gap Between LLM Agents and Clinical Practice Through Interactive Sequential Benchmarking](https://arxiv.org/abs/2412.01605), **_arXiv_**, 2024.
 - [MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models](https://arxiv.org/pdf/2412.18947), **_AAAI_**, 2025.
+- [Mitigating Cognitive Biases in Clinical Decision-Making Through Multi-Agent Conversations Using Large Language Models: Simulation Study](https://www.jmir.org/2024/1/e59439), **_Journal of Medical Internet Research_**, 2024.
 - [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD 2024_**, 2024.
 - [WHO Guidance: Ethics and Governance of Artificial Intelligence for Health – Large Multi‑Modal Models](https://www.who.int/publications/i/item/9789240084759), **_World Health Organization_**, 2024.
 
