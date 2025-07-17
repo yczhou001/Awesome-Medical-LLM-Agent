@@ -40,7 +40,7 @@
 - [From MedPrompt to o1: Exploration of Run‑Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590), **_arXiv_**, 2024.
 - [GatorTron: A Large Clinical Language Model to Unlock Patient Information from Unstructured EHRs](https://arxiv.org/abs/2203.03540), **_arXiv_**, 2022.
 - [Health-LLM: Personalized Retrieval-Augmented Disease Prediction System](https://arxiv.org/abs/2402.00746), **_ACL 2025 NLP4PosImpact Workshop_**, 2025.
-- [HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation](https://arxiv.org/abs/2502.09838), **_arXiv_**, 2024.
+- [HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation](https://arxiv.org/abs/2502.09838), **_arXiv_**, 2025.
 - [Hidden Flaws Behind Expert‑Level Accuracy of Multimodal GPT‑4 Vision in Medicine](https://www.nature.com/articles/s41746-024-01185-7), **_NPJ Digital Medicine_**, 2024.
 - [Huatuo: Tuning LLaMA with Chinese Medical Knowledge](https://arxiv.org/abs/2304.06975), **_arXiv_**, 2023.
 - [HuatuoGPT: Taming Language Models to Be a Doctor](https://arxiv.org/abs/2305.15075), **_arXiv_**, 2023.
