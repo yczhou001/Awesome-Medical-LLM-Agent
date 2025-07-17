@@ -23,6 +23,7 @@
 - [Chain‑of‑Thought Strategy for Smaller LLMs for Medical Reasoning](https://www.researchgate.net/publication/391821305_Chain_of_Thought_Strategy_for_Smaller_LLMs_for_Medical_Reasoning), **_Studies in Health Technology & Informatics_**, 2025.
 - [Chain‑of‑Thought Utilization in Large Language Models and Application in Nephrology](https://www.mdpi.com/1648-9144/60/1/148), **_Medicina_**, 2024.
 - [ChatDoctor: A Medical Chat Model Fine‑Tuned on a Large Language Model (LLaMA) Using Medical Domain Knowledge](https://www.cureus.com/articles/152858-chatdoctor-a-medical-chat-model-fine-tuned-on-a-large-language-model-meta-ai-llama-using-medical-domain-knowledge), **_Cureus_**, 2023.
+- [ChestGPT: Integrating Large Language Models and Vision Transformers for Disease Detection and Localization in Chest X-Rays](https://arxiv.org/abs/2507.03739), **_arXiv_**, 2025.
 - [CITRUS: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support](https://arxiv.org/abs/2502.18274), **_arXiv_**, 2025.
 - [ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation](https://arxiv.org/abs/2306.09968), **_arXiv_**, 2023.
 - [Closing the Gap Between Open‑Source and Commercial LLMs for Medical Evidence Summarization](https://www.nature.com/articles/s41746-024-01239-w), **_NPJ Digital Medicine_**, 2024.
