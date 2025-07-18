@@ -112,6 +112,7 @@
 - [Agentic LLM Workflows for Generating Patient-Friendly Medical Reports](https://arxiv.org/pdf/2408.01112), **_arXiv_**, 2024.
 - [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/abs/2409.18924), **_arXiv_**, 2024.
 - [AKIBoards: A Structure‑Following Multi‑Agent System for Predicting Acute Kidney Injury](https://arxiv.org/abs/2504.20368), **_arXiv_**, 2025.
+- [An LLM-based Framework for Biomedical Terminology Normalization in Social Media via Multi-Agent Collaboration](https://aclanthology.org/2025.coling-main.714.pdf), **_ACL_** 2025.
 - [Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis](https://arxiv.org/abs/2401.16107), **_arXiv_**, 2024.
 - [ClinicalAgent: Clinical Trial Multi‑Agent System with LLM‑Based Reasoning](https://arxiv.org/abs/2404.14777), **_ACM BCB & Health Informatics_**, 2024.
 - [ColaCare: Enhancing Electronic Health Record Modeling Through Large Language Model-Driven Multi-Agent Collaboration](https://arxiv.org/pdf/2410.02551), **_WWW_**, 2025.
@@ -120,6 +121,7 @@
 - [Enhancing Diagnostic Capability with Multi‑Agents Conversational LLMs](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
 - [Empowering LLM Agents With Zero-Shot Optimal Decision-Making Through Q-Learning](https://openreview.net/pdf?id=JsVIGVntnQ), **_ICLR_**, 2025.
 - [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](https://arxiv.org/pdf/2507.02773) **_arXiv_**, 2025.
+- [Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](https://arxiv.org/pdf/2504.11301?) **_arXiv_**, 2025.
 - [LLMs Can Simulate Standardized Patients via Agent Co‑Evolution](https://arxiv.org/abs/2412.11716), **_arXiv_**, 2024.
 - [Magda: Multi-Agent Guideline-Driven Diagnostic Assistance](https://arxiv.org/pdf/2409.06351), **_MICCAI_**, 2024.
 - [MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](https://arxiv.org/abs/2506.19835), **_ACL_**, 2025.
