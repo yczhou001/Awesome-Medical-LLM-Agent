@@ -118,7 +118,7 @@
 - [DDO: Dual-Decision Optimization via Multi-Agent Collaboration for LLM-Based Medical Consultation](https://www.arxiv.org/abs/2505.18630), **_arXiv_**, 2025.
 - [Enhancing Diagnostic Capability with Multi‑Agents Conversational LLMs](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
 - [Empowering LLM Agents With Zero-Shot Optimal Decision-Making Through Q-Learning](https://openreview.net/pdf?id=JsVIGVntnQ), **_ICLR_**, 2025.
-- [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs] **_arXiv_**, 2025.
+- [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs] (https://arxiv.org/pdf/2507.02773) **_arXiv_**, 2025.
 - [LLMs Can Simulate Standardized Patients via Agent Co‑Evolution](https://arxiv.org/abs/2412.11716), **_arXiv_**, 2024.
 - [Magda: Multi-Agent Guideline-Driven Diagnostic Assistance](https://arxiv.org/pdf/2409.06351), **_MICCAI_**, 2024.
 - [MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](https://arxiv.org/abs/2506.19835), **_ACL_**, 2025.
