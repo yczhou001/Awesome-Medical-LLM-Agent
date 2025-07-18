@@ -116,22 +116,22 @@
 - [ClinicalAgent: Clinical Trial Multi‑Agent System with LLM‑Based Reasoning](https://arxiv.org/abs/2404.14777), **_ACM BCB & Health Informatics_**, 2024.
 - [ColaCare: Enhancing Electronic Health Record Modeling Through Large Language Model-Driven Multi-Agent Collaboration](https://arxiv.org/pdf/2410.02551), **_WWW_**, 2025.
 - [DDO: Dual-Decision Optimization via Multi-Agent Collaboration for LLM-Based Medical Consultation](https://www.arxiv.org/abs/2505.18630), **_arXiv_**, 2025.
-- [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making] (https://arxiv.org/pdf/2507.02616), **_arXiv_**, 2025.
+- [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/pdf/2507.02616), **_arXiv_**, 2025.
 - [Enhancing Diagnostic Capability with Multi‑Agents Conversational LLMs](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
 - [Empowering LLM Agents With Zero-Shot Optimal Decision-Making Through Q-Learning](https://openreview.net/pdf?id=JsVIGVntnQ), **_ICLR_**, 2025.
-- [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs] (https://arxiv.org/pdf/2507.02773) **_arXiv_**, 2025.
+- [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](https://arxiv.org/pdf/2507.02773) **_arXiv_**, 2025.
 - [LLMs Can Simulate Standardized Patients via Agent Co‑Evolution](https://arxiv.org/abs/2412.11716), **_arXiv_**, 2024.
 - [Magda: Multi-Agent Guideline-Driven Diagnostic Assistance](https://arxiv.org/pdf/2409.06351), **_MICCAI_**, 2024.
 - [MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](https://arxiv.org/abs/2506.19835), **_ACL_**, 2025.
 - [MAP: Multi‑Agent Enhancement of LLMs for In‑Patient Pathways](https://arxiv.org/abs/2503.13205), **_arXiv_**, 2025.
 - [MC‑CoT: A Modular Collaborative Chain‑of‑Thought Framework for Zero‑Shot Medical VQA](https://arxiv.org/abs/2410.04521), **_arXiv_**, 2024.
 - [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision‑Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf), **_NeurIPS 2024_**, 2024.
-- [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale] (https://arxiv.org/pdf/2506.04405), **_arXiv_**, 2025.
+- [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale](https://arxiv.org/pdf/2506.04405), **_arXiv_**, 2025.
 - [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537), **_arXiv_**, 2023.
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM‑Based Multi‑Agent Collaboration](https://arxiv.org/abs/2410.12532), **_arXiv_**, 2024.
 - [MedCoT: Medical Chain‑of‑Thought via Hierarchical Expert](https://arxiv.org/abs/2412.13736), **_arXiv_**, 2024.
 - [MedDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis](https://arxiv.org/abs/2502.19175), **_arXiv_**, 2025.
-- [MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems] (https://arxiv.org/pdf/2505.20824), **_arXiv_**, 2025.
+- [MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems](https://arxiv.org/pdf/2505.20824), **_arXiv_**, 2025.
 - [PatientSim: A Persona‑Driven Simulator for Realistic Doctor‑Patient Interactions](https://arxiv.org/abs/2505.17818), **_arXiv_**, 2025.
 - [PiORS: Personalized Intelligent Outpatient Reception Based on Multi‑Agents Medical Scenario Simulation](https://arxiv.org/pdf/2411.13902), **_arXiv_**, 2024.
 - [RareAgents: Autonomous Multi‑Disciplinary Team for Rare Disease Diagnosis and Treatment](https://arxiv.org/abs/2412.12475), **_arXiv_**, 2024.
