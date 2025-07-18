@@ -129,8 +129,10 @@
 - [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale](https://arxiv.org/pdf/2506.04405), **_arXiv_**, 2025.
 - [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537), **_arXiv_**, 2023.
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM‑Based Multi‑Agent Collaboration](https://arxiv.org/abs/2410.12532), **_arXiv_**, 2024.
+- [MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models](https://arxiv.org/pdf/2506.07400), **_arXiv_**, 2025.
 - [MedCoT: Medical Chain‑of‑Thought via Hierarchical Expert](https://arxiv.org/abs/2412.13736), **_arXiv_**, 2024.
 - [MedDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis](https://arxiv.org/abs/2502.19175), **_arXiv_**, 2025.
+- [Mdteamgpt: A self-evolving llm-based multi-agent framework for multi-disciplinary team medical consultation(https://arxiv.org/pdf/2503.13856), **_arXiv_**, 2025.
 - [MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems](https://arxiv.org/pdf/2505.20824), **_arXiv_**, 2025.
 - [PatientSim: A Persona‑Driven Simulator for Realistic Doctor‑Patient Interactions](https://arxiv.org/abs/2505.17818), **_arXiv_**, 2025.
 - [PiORS: Personalized Intelligent Outpatient Reception Based on Multi‑Agents Medical Scenario Simulation](https://arxiv.org/pdf/2411.13902), **_arXiv_**, 2024.
