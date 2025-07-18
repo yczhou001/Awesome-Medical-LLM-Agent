@@ -151,9 +151,9 @@
 - [MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems](https://arxiv.org/pdf/2505.20824), **_arXiv_**, 2025.
 - [MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/pdf/2506.00555?), **_arXiv_**, 2025.
 - [MRGAgents: A Multi-Agent Framework for Improved Medical Report Generation with Med-LVLMs](https://arxiv.org/pdf/2505.18530?), **_arXiv_**, 2025.
-- [Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis](https://arxiv.org/pdf/2507.03460?), *_arXiv_**, 2025.
-- [M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging](https://arxiv.org/pdf/2502.20301?), *_arXiv_**, 2025.
-- [Pathfinder: A multi-modal multi-agent system for medical diagnostic decision-making applied to histopathology](https://arxiv.org/pdf/2502.08916), *_arXiv_**, 2025.
+- [Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis](https://arxiv.org/pdf/2507.03460?), **_arXiv_**, 2025.
+- [M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging](https://arxiv.org/pdf/2502.20301?), **_arXiv_**, 2025.
+- [Pathfinder: A multi-modal multi-agent system for medical diagnostic decision-making applied to histopathology](https://arxiv.org/pdf/2502.08916), **_arXiv_**, 2025.
 - [PatientSim: A Persona‑Driven Simulator for Realistic Doctor‑Patient Interactions](https://arxiv.org/abs/2505.17818), **_arXiv_**, 2025.
 - [PiORS: Personalized Intelligent Outpatient Reception Based on Multi‑Agents Medical Scenario Simulation](https://arxiv.org/pdf/2411.13902), **_arXiv_**, 2024.
 - [RareAgents: Autonomous Multi‑Disciplinary Team for Rare Disease Diagnosis and Treatment](https://arxiv.org/abs/2412.12475), **_arXiv_**, 2024.
