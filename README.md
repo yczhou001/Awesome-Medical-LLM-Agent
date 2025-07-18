@@ -173,7 +173,7 @@
 - [AI Agents in Modern Healthcare: A Comprehensive Review and Implementation Roadmap](https://www.preprints.org/manuscript/202503.1352/v1), **_Preprints_**, 2025.
 - [AI Hospital: Benchmarking LLMs in a Multi‑Agent Medical Interaction Simulator](https://arxiv.org/abs/2402.09742), **_arXiv_**, 2024.
 - [Artificial Intelligence and Automation in Endoscopy and Surgery](https://www.nature.com/articles/s41575-022-00701-y), **_Nature Reviews Gastroenterology & Hepatology_**, 2023.
-- [Baymax: A Survey of LLM‑Based Agents in Medicine – How Far Are We from Baymax?](https://arxiv.org/abs/2502.11211), **_arXiv_**, 2025.
+- [Baymax: A Survey of LLM‑Based Agents in Medicine – How Far Are We from Baymax?](https://arxiv.org/abs/2502.11211), **_ACL Findings_**, 2025.
 - [Benchmarking Large Language Models on Communicative Medical Coaching: A Novel System and Dataset](https://arxiv.org/pdf/2402.05547), **_ACL_**, 2024.
 - [ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](https://arxiv.org/pdf/2406.13890), **_arXiv_**, 2024.
 - [CliBench: A Multifaceted and Multigranular Evaluation of LLMs for Clinical Decision Making](https://arxiv.org/abs/2403.15255), **_arXiv_**, 2024.
