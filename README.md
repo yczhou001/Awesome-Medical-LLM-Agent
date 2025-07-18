@@ -90,14 +90,17 @@
 - [Augmentation of ChatGPT with Clinician‑Informed Tools Improves Performance on Medical Calculation Tasks](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1), **_medRxiv_**, 2023.
 - [Autonomous Artificial Intelligence Agents for Clinical Decision Making in Oncology](https://arxiv.org/html/2404.04667v1), **_arXiv_**, 2024.
 - [CoD: Towards an Interpretable Medical Agent Using Chain of Diagnosis](https://arxiv.org/abs/2407.13301), **_arXiv_**, 2024.
+- [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/pdf/2505.16229), **_arXiv_**, 2025.
 - [DrHouse: An LLM‑Empowered Diagnostic Reasoning System](https://arxiv.org/abs/2405.12541), **_PACM IMWUT_**, 2024.
 - [EHRAgent: Code Empowers LLMs for Few‑Shot Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128), **_arXiv_**, 2024.
 - [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
 - [Future Prospects of Agentic RAG in Medical Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5212343), **_SSRN_**, 2025.
 - [GeneGPT: Augmenting LLMs with Domain Tools for Improved Access to Biomedical Information](https://academic.oup.com/bioinformatics/article/40/2/btae075/7606338), **_Bioinformatics_**, 2024.
+- [HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Genetic Biomarker-Based Medical Diagnosis](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1.full.pdf), **_arXiv_**, 2025.
 - [KGARevion: An AI Agent for Knowledge‑Intensive Biomedical Question Answering](https://arxiv.org/abs/2410.04660), **_ICLR_**, 2025.
 - [Large Language Model Agents Can Use Tools to Perform Clinical Calculations](https://www.nature.com/articles/s41746-025-01475-8), **_NPJ Digital Medicine_**, 2025.
 - [MMedAgent: Learning to Use Medical Tools with Multi‑Modal Agent](https://aclanthology.org/2024.findings-emnlp.510/), **_EMNLP Findings_**, 2024.
+- [Medrax: Medical reasoning agent for chest x-ray](https://arxiv.org/pdf/2502.02673), **_arXiv_**, 2025.
 - [MeNTi: Bridging Medical Calculator and LLM Agent With Nested Tool Calling](https://arxiv.org/pdf/2410.13610), **_NAACL_**, 2025.
 - ["My Nose Is Running." "Are You Also Coughing?": Building a Medical Diagnosis Agent with Interpretable Inquiry Logics](https://arxiv.org/abs/2204.13953), **_IJCAI 2022_**, 2022.
 - [Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](https://arxiv.org/pdf/2411.14461), **_arXiv_**, 2024.
@@ -129,6 +132,7 @@
 - [MC‑CoT: A Modular Collaborative Chain‑of‑Thought Framework for Zero‑Shot Medical VQA](https://arxiv.org/abs/2410.04521), **_arXiv_**, 2024.
 - [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision‑Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf), **_NeurIPS 2024_**, 2024.
 - [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale](https://arxiv.org/pdf/2506.04405), **_arXiv_**, 2025.
+- [MedAgent-Pro: Towards Evidence-Based Multi-Modal Medical Diagnosis via Reasoning Agentic Workflow](https://arxiv.org/pdf/2503.18968), **_arXiv_**, 2025.
 - [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537), **_arXiv_**, 2023.
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM‑Based Multi‑Agent Collaboration](https://arxiv.org/abs/2410.12532), **_arXiv_**, 2024.
 - [MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models](https://arxiv.org/pdf/2506.07400), **_arXiv_**, 2025.
