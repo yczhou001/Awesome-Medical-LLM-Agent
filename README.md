@@ -111,20 +111,27 @@
 ## Medical Multi Agent
 - [A Dual-Agent Collaboration Framework Based on Ilms for Nursing Robots to Perform Bimanual Coordination Tasks](https://ieeexplore.ieee.org/document/10852163), **_ICRA_**, 2025.
 - [Adaptive Reasoning and Acting in Medical Language Agents](https://arxiv.org/abs/2410.10020), **_arXiv_**, 2024.
+- [ADAgent: LLM Agent for Alzheimer's Disease Analysis with Collaborative Coordinator](https://arxiv.org/pdf/2506.11150), **_arXiv_**, 2025.
 - [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957), **_arXiv_**, 2024.
 - [Agentic LLM Workflows for Generating Patient-Friendly Medical Reports](https://arxiv.org/pdf/2408.01112), **_arXiv_**, 2024.
 - [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/abs/2409.18924), **_arXiv_**, 2024.
 - [AKIBoards: A Structure‑Following Multi‑Agent System for Predicting Acute Kidney Injury](https://arxiv.org/abs/2504.20368), **_arXiv_**, 2025.
 - [An LLM-based Framework for Biomedical Terminology Normalization in Social Media via Multi-Agent Collaboration](https://aclanthology.org/2025.coling-main.714.pdf), **_ACL_** 2025.
+- [An LLM-Driven Multi-Agent Debate System for Mendelian Diseases](https://arxiv.org/pdf/2504.07881), **_arXiv_**, 2025.
+- [A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10889517&casa_token=m6rB12gal6cAAAAA:H5zMNTMvWWxxjci3IpigKVmHw3Dgmf5yrJN1Dmg83QTigBxe2En8vOTLga_Nj-oVL-0Mz3dbtQ&tag=1), **_ICASSP_**, 2025.
 - [Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis](https://arxiv.org/abs/2401.16107), **_arXiv_**, 2024.
 - [ClinicalAgent: Clinical Trial Multi‑Agent System with LLM‑Based Reasoning](https://arxiv.org/abs/2404.14777), **_ACM BCB & Health Informatics_**, 2024.
 - [ColaCare: Enhancing Electronic Health Record Modeling Through Large Language Model-Driven Multi-Agent Collaboration](https://arxiv.org/pdf/2410.02551), **_WWW_**, 2025.
 - [DDO: Dual-Decision Optimization via Multi-Agent Collaboration for LLM-Based Medical Consultation](https://www.arxiv.org/abs/2505.18630), **_arXiv_**, 2025.
+- [Di-Agent: A Multi-Agent Llm Framework for Full Lifecycle Bearing Health Management](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5292405), **_SSRN_**, 2025.
+- [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/pdf/2505.19630?), **_arXiv_**, 2025.
 - [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/pdf/2507.02616), **_arXiv_**, 2025.
 - [Enhancing Diagnostic Capability with Multi‑Agents Conversational LLMs](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
 - [Empowering LLM Agents With Zero-Shot Optimal Decision-Making Through Q-Learning](https://openreview.net/pdf?id=JsVIGVntnQ), **_ICLR_**, 2025.
-- [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](https://arxiv.org/pdf/2507.02773) **_arXiv_**, 2025.
-- [Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](https://arxiv.org/pdf/2504.11301?) **_arXiv_**, 2025.
+- [Map: Evaluation and multi-agent enhancement of large language models for inpatient pathways](https://arxiv.org/pdf/2503.13205?), **_arXiv_**, 2025.
+- [From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents](https://arxiv.org/pdf/2506.15911), **_arXiv_**, 2025.
+- [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](https://arxiv.org/pdf/2507.02773), **_arXiv_**, 2025.
+- [Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](https://arxiv.org/pdf/2504.11301?),**_arXiv_**, 2025.
 - [LLMs Can Simulate Standardized Patients via Agent Co‑Evolution](https://arxiv.org/abs/2412.11716), **_arXiv_**, 2024.
 - [Magda: Multi-Agent Guideline-Driven Diagnostic Assistance](https://arxiv.org/pdf/2409.06351), **_MICCAI_**, 2024.
 - [MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](https://arxiv.org/abs/2506.19835), **_ACL_**, 2025.
@@ -133,23 +140,31 @@
 - [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision‑Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf), **_NeurIPS 2024_**, 2024.
 - [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale](https://arxiv.org/pdf/2506.04405), **_arXiv_**, 2025.
 - [MedAgent-Pro: Towards Evidence-Based Multi-Modal Medical Diagnosis via Reasoning Agentic Workflow](https://arxiv.org/pdf/2503.18968), **_arXiv_**, 2025.
+- [Mdteamgpt: A self-evolving llm-based multi-agent framework for multi-disciplinary team medical consultation](https://arxiv.org/pdf/2503.13856), **_arXiv_**, 2025.
 - [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537), **_arXiv_**, 2023.
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM‑Based Multi‑Agent Collaboration](https://arxiv.org/abs/2410.12532), **_arXiv_**, 2024.
 - [MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models](https://arxiv.org/pdf/2506.07400), **_arXiv_**, 2025.
 - [MedCoT: Medical Chain‑of‑Thought via Hierarchical Expert](https://arxiv.org/abs/2412.13736), **_arXiv_**, 2024.
 - [MedDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis](https://arxiv.org/abs/2502.19175), **_arXiv_**, 2025.
-- [Mdteamgpt: A self-evolving llm-based multi-agent framework for multi-disciplinary team medical consultation](https://arxiv.org/pdf/2503.13856), **_arXiv_**, 2025.
+- [MediRAG: Hierarchical Intent-Driven Medical Knowledge Framework with Multi-Agent Specialized Answering](https://d197for5662m48.cloudfront.net/documents/publicationstatus/253559/preprint_pdf/47a75faa2767d3efa1db2cf9b139eb30.pdf), **_arXiv_**, 2025.
 - [MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems](https://arxiv.org/pdf/2505.20824), **_arXiv_**, 2025.
+- [MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/pdf/2506.00555?), **_arXiv_**, 2025.
+- [MRGAgents: A Multi-Agent Framework for Improved Medical Report Generation with Med-LVLMs](https://arxiv.org/pdf/2505.18530?), **_arXiv_**, 2025.
+- [Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis](https://arxiv.org/pdf/2507.03460?), *_arXiv_**, 2025.
+- [M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging](https://arxiv.org/pdf/2502.20301?), *_arXiv_**, 2025.
+- [Pathfinder: A multi-modal multi-agent system for medical diagnostic decision-making applied to histopathology](https://arxiv.org/pdf/2502.08916), *_arXiv_**, 2025.
 - [PatientSim: A Persona‑Driven Simulator for Realistic Doctor‑Patient Interactions](https://arxiv.org/abs/2505.17818), **_arXiv_**, 2025.
 - [PiORS: Personalized Intelligent Outpatient Reception Based on Multi‑Agents Medical Scenario Simulation](https://arxiv.org/pdf/2411.13902), **_arXiv_**, 2024.
 - [RareAgents: Autonomous Multi‑Disciplinary Team for Rare Disease Diagnosis and Treatment](https://arxiv.org/abs/2412.12475), **_arXiv_**, 2024.
 - [Rx Strategist: Prescription Verification Using LLM Agent Systems](https://arxiv.org/abs/2409.03440), **_arXiv_**, 2024.
 - [Self‑Evolving Multi‑Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678), **_arXiv_**, 2025.
+- [STELLA: Self-Evolving LLM Agent for Biomedical Research](https://arxiv.org/pdf/2507.02004), **_arXiv_**, 2025.
 - [SurgBox: Agent-Driven Operating Room Sandbox With Surgery Copilot](https://arxiv.org/pdf/2412.05187), **_arXiv_**, 2024.
 
 
 
 ## Medical LLM & Agent Survey & Benchmark
+- [3MDBench: Medical Multimodal Multi-agent Dialogue Benchmark](https://arxiv.org/pdf/2504.13861), **_arXiv_**, 2025.
 - [Addressing Cognitive Bias in Medical Language Models](https://arxiv.org/pdf/2402.08113), **_arXiv_**, 2024.
 - [AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments](https://arxiv.org/abs/2405.07960), **_arXiv_**, 2024.
 - [AI Agents in Modern Healthcare: A Comprehensive Review and Implementation Roadmap](https://www.preprints.org/manuscript/202503.1352/v1), **_Preprints_**, 2025.
