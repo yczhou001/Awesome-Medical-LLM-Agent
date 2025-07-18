@@ -126,6 +126,7 @@
 - [MAP: Multi‑Agent Enhancement of LLMs for In‑Patient Pathways](https://arxiv.org/abs/2503.13205), **_arXiv_**, 2025.
 - [MC‑CoT: A Modular Collaborative Chain‑of‑Thought Framework for Zero‑Shot Medical VQA](https://arxiv.org/abs/2410.04521), **_arXiv_**, 2024.
 - [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision‑Making](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf), **_NeurIPS 2024_**, 2024.
+- [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale] (https://arxiv.org/pdf/2506.04405), **_arXiv_**, 2025.
 - [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537), **_arXiv_**, 2023.
 - [MedAide: Towards an Omni Medical Aide via Specialized LLM‑Based Multi‑Agent Collaboration](https://arxiv.org/abs/2410.12532), **_arXiv_**, 2024.
 - [MedCoT: Medical Chain‑of‑Thought via Hierarchical Expert](https://arxiv.org/abs/2412.13736), **_arXiv_**, 2024.
