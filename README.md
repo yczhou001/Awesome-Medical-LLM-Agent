@@ -87,6 +87,7 @@
 
 ## Medical Single Agent
 - [Almanac—Retrieval‑Augmented Language Models for Clinical Medicine](https://ai.nejm.org/doi/full/10.1056/AIoa2300068), **_NEJM AI_**, 2024.
+- [AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions](https://arxiv.org/pdf/2507.03493), **_arXiv_**, 2025.
 - [Augmentation of ChatGPT with Clinician‑Informed Tools Improves Performance on Medical Calculation Tasks](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1), **_medRxiv_**, 2023.
 - [Autonomous Artificial Intelligence Agents for Clinical Decision Making in Oncology](https://arxiv.org/html/2404.04667v1), **_arXiv_**, 2024.
 - [CoD: Towards an Interpretable Medical Agent Using Chain of Diagnosis](https://arxiv.org/abs/2407.13301), **_arXiv_**, 2024.
@@ -156,10 +157,12 @@
 - [PatientSim: A Persona‑Driven Simulator for Realistic Doctor‑Patient Interactions](https://arxiv.org/abs/2505.17818), **_arXiv_**, 2025.
 - [PiORS: Personalized Intelligent Outpatient Reception Based on Multi‑Agents Medical Scenario Simulation](https://arxiv.org/pdf/2411.13902), **_arXiv_**, 2024.
 - [RareAgents: Autonomous Multi‑Disciplinary Team for Rare Disease Diagnosis and Treatment](https://arxiv.org/abs/2412.12475), **_arXiv_**, 2024.
+- [Reinforcing clinical decision support through multi-agent systems and ethical ai governance](https://arxiv.org/pdf/2504.03699?), **_arXiv_**, 2025.
 - [Rx Strategist: Prescription Verification Using LLM Agent Systems](https://arxiv.org/abs/2409.03440), **_arXiv_**, 2024.
 - [Self‑Evolving Multi‑Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678), **_arXiv_**, 2025.
 - [STELLA: Self-Evolving LLM Agent for Biomedical Research](https://arxiv.org/pdf/2507.02004), **_arXiv_**, 2025.
 - [SurgBox: Agent-Driven Operating Room Sandbox With Surgery Copilot](https://arxiv.org/pdf/2412.05187), **_arXiv_**, 2024.
+- [Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare](https://arxiv.org/pdf/2506.12482), **_arXiv_**, 2025.
 
 
 
