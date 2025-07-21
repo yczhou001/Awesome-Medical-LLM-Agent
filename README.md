@@ -90,8 +90,9 @@
 - [AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions](https://arxiv.org/pdf/2507.03493), **_arXiv_**, 2025.
 - [Augmentation of ChatGPT with Clinician‑Informed Tools Improves Performance on Medical Calculation Tasks](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1), **_medRxiv_**, 2023.
 - [Autonomous Artificial Intelligence Agents for Clinical Decision Making in Oncology](https://arxiv.org/html/2404.04667v1), **_arXiv_**, 2024.
+- [Biomni: A General-Purpose Biomedical AI Agent](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1), **_arXiv_**, 2025.
 - [CoD: Towards an Interpretable Medical Agent Using Chain of Diagnosis](https://arxiv.org/abs/2407.13301), **_arXiv_**, 2024.
-- [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/pdf/2505.16229), **_arXiv_**, 2025.
+- [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/pdf/2505.16229), **_bioRXiv_**, 2025.
 - [DrHouse: An LLM‑Empowered Diagnostic Reasoning System](https://arxiv.org/abs/2405.12541), **_PACM IMWUT_**, 2024.
 - [EHRAgent: Code Empowers LLMs for Few‑Shot Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128), **_arXiv_**, 2024.
 - [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
