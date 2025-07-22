@@ -13,6 +13,7 @@
 - [A Foundational Multimodal Vision Language AI Assistant for Human Pathology](https://arxiv.org/abs/2312.07814), **_arXiv_**, 2023.
 - [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2), **_Nature Medicine_**, 2024.
 - [A study of generative large language model for medical research and healthcare](https://www.nature.com/articles/s41746-023-00958-w  ), **_NPJ Digital Medicine_**, 2023.
+- [An Explainable Biomedical Foundation Model via Large-Scale Concept-Enhanced Vision-Language Pre-training](https://arxiv.org/abs/2501.15579), **_arXiv_**, 2025.
 - [Beyond Self‑Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging](https://arxiv.org/abs/2404.13149), **_AIME_**, 2024.
 - [BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT](https://arxiv.org/abs/2310.15896), **_arXiv_**, 2023.
 - [BioGPT: Generative Pre‑Trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/abs/2210.10341), **_Briefings in Bioinformatics_**, 2022.
@@ -30,6 +31,7 @@
 - [CXR-LLAVA: a multimodal large language model for interpreting chest X-ray images](https://arxiv.org/abs/2310.18341), **_arXiv_**, 2023.
 - [DeID‑GPT: Zero‑Shot Medical Text De‑Identification by GPT‑4](https://arxiv.org/abs/2303.11032), **_arXiv_**, 2023.
 - [DeepSeek Deployed in 90 Chinese Tertiary Hospitals: How Artificial Intelligence Is Transforming Clinical Practice](https://link.springer.com/article/10.1007/s10916-025-02181-4), **_Journal of Medical Systems_**, 2025.
+- [Development, Evaluation, and Assessment of Large Language Models (DEAL) Checklist: A Technical Report](https://ai.nejm.org/doi/abs/10.1056/AIp2401106), **_NEJM AI_**, 2025.
 - [Diagnostic Reasoning Prompts Reveal the Potential for LLM Interpretability in Medicine](https://www.nature.com/articles/s41746-024-01010-1), **_NPJ Digital Medicine_**, 2024.
 - [DiagX-DT: diagnostic exclusion reasoning with dialectical thinking for traditional Chinese medicine in large language models](https://link.springer.com/article/10.1007/s44443-025-00123-1), **_Journal of King Saud University Computer and Information Sciences_**, 2025.
 - [DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation](https://arxiv.org/abs/2308.14346), **_arXiv_**, 2023.
@@ -63,6 +65,7 @@
 - [Medical Reasoning in LLMs: An In‑Depth Analysis of DeepSeek R1](https://www.frontiersin.org/articles/10.3389/frai.2025.1616145), **_Frontiers in Artificial Intelligence_**, 2025.
 - [MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis](https://arxiv.org/abs/2407.04106v1), **_arXiv_**, 2024.
 - [MOSS-MED: A Family of Multimodal Models Serving Medical Image Analysis](https://dl.acm.org/doi/10.1145/3688005), **_ACM Transactions on Management Information Systems_**, 2025.
+- [Multimodal generative AI for interpreting 3D medical images and videos](https://www.nature.com/articles/s41746-025-01649-4), **_npj Digital Medicine_**, 2025.
 - [OpenMedLM: Prompt Engineering Can Out‑Perform Fine‑Tuning in Medical Question‑Answering with Open‑Source LLMs](https://www.nature.com/articles/s41598-024-64827-6), **_Scientific Reports_**, 2024.
 - [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue](https://www.sciencedirect.com/science/article/pii/S0933365724002434), **_Artificial Intelligence in Medicine_**, 2024.
 - [Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost](https://arxiv.org/abs/2306.10765), **_arXiv_**, 2023.
@@ -79,6 +82,7 @@
 - [Towards Generalist Biomedical AI](https://ai.nejm.org/doi/full/10.1056/AIoa2300138), **_NEJM AI_**, 2024.
 - [Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data](https://arxiv.org/abs/2308.02463), **_arXiv_**, 2023.
 - [Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems With Large Language Models](https://openreview.net/pdf?id=4c5rg9y4me), **_arXiv_**, 2024.
+- [UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation](https://arxiv.org/abs/2504.21336)), **_arXiv_**, 2025.
 - [Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities](https://github.com/cambridgeltl/visual-med-alpaca), 2024.
 - [XrayGLM: The first Chinese Medical Multimodal Model that Chest Radiographs Summarization](https://github.com/WangRongsheng/XrayGLM), 2023.
 - [XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/abs/2306.07971), **_ACL 2024-BIONLP Workshop_**, 2024.
@@ -124,6 +128,7 @@
 - [Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis](https://arxiv.org/abs/2401.16107), **_arXiv_**, 2024.
 - [ClinicalAgent: Clinical Trial Multi‑Agent System with LLM‑Based Reasoning](https://arxiv.org/abs/2404.14777), **_ACM BCB & Health Informatics_**, 2024.
 - [ColaCare: Enhancing Electronic Health Record Modeling Through Large Language Model-Driven Multi-Agent Collaboration](https://arxiv.org/pdf/2410.02551), **_WWW_**, 2025.
+- [Coordinated AI agents for advancing healthcare](https://www.nature.com/articles/s41551-025-01363-2), **_Nature Biomedical Engineering_**, 2025.
 - [DDO: Dual-Decision Optimization via Multi-Agent Collaboration for LLM-Based Medical Consultation](https://www.arxiv.org/abs/2505.18630), **_arXiv_**, 2025.
 - [Di-Agent: A Multi-Agent Llm Framework for Full Lifecycle Bearing Health Management](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5292405), **_SSRN_**, 2025.
 - [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/pdf/2505.19630?), **_arXiv_**, 2025.
@@ -173,6 +178,7 @@
 - [AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments](https://arxiv.org/abs/2405.07960), **_arXiv_**, 2024.
 - [AI Agents in Modern Healthcare: A Comprehensive Review and Implementation Roadmap](https://www.preprints.org/manuscript/202503.1352/v1), **_Preprints_**, 2025.
 - [AI Hospital: Benchmarking LLMs in a Multi‑Agent Medical Interaction Simulator](https://arxiv.org/abs/2402.09742), **_arXiv_**, 2024.
+- [A perspective for adapting generalist AI to specialized medical AI applications and their challenges](https://www.nature.com/articles/s41746-025-01789-7), **npj Digital Medicine**, 2025.
 - [Artificial Intelligence and Automation in Endoscopy and Surgery](https://www.nature.com/articles/s41575-022-00701-y), **_Nature Reviews Gastroenterology & Hepatology_**, 2023.
 - [Baymax: A Survey of LLM‑Based Agents in Medicine – How Far Are We from Baymax?](https://arxiv.org/abs/2502.11211), **_ACL Findings_**, 2025.
 - [Benchmarking Large Language Models on Communicative Medical Coaching: A Novel System and Dataset](https://arxiv.org/pdf/2402.05547), **_ACL_**, 2024.
@@ -184,6 +190,7 @@
 - [Exploring Large Language Model Based Intelligent Agents: Definitions, Methods, and Prospects](https://arxiv.org/pdf/2401.03428), **_arXiv_**, 2024.
 - [Generalization in Healthcare AI: Evaluation of a Clinical LLM](https://arxiv.org/abs/2402.10965), **_arXiv_**, 2024.
 - [Improving Clinical Documentation with AI: A Comparative Study of Sporo AI Scribe and GPT-4o mini](https://arxiv.org/pdf/2410.15528), **_arXiv_**, 2024.
+- [How generative AI voice agents will transform medicine](https://www.nature.com/articles/s41746-025-01776-y), **_npj Digital Medicine_**, 2025.
 - [KG4Diagnosis: A Hierarchical Multi-Agent Ilm Framework With Knowledge Graph Enhancement for Medical Diagnosis](), **_AAAI_**, 2025.
 - [LLM-Based Agentic Systems in Medicine and Healthcare](https://www.nature.com/articles/s42256-024-00944-1), **_Nature Machine Intelligence volume_**, 2024.
 - [M$^3$-Med: A Benchmark for Multi-lingual, Multi-modal, and Multi-hop Reasoning in Medical Instructional Video Understanding](https://arxiv.org/abs/2507.04289), **_arXiv_**, 2025.
@@ -194,7 +201,11 @@
 - [MedChain: Bridging the Gap Between LLM Agents and Clinical Practice Through Interactive Sequential Benchmarking](https://arxiv.org/abs/2412.01605), **_arXiv_**, 2024.
 - [MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models](https://arxiv.org/pdf/2412.18947), **_AAAI_**, 2025.
 - [Mitigating Cognitive Biases in Clinical Decision-Making Through Multi-Agent Conversations Using Large Language Models: Simulation Study](https://www.jmir.org/2024/1/e59439), **_Journal of Medical Internet Research_**, 2024.
+- [Multimodal generative AI for medical image interpretation](https://www.nature.com/articles/s41586-025-08675-y), **_AAAI_**, 2025.
+- [Optimizing AI solutions for population health in primary care](https://www.nature.com/articles/s41746-025-01864-z), **npj Digital Medicine**, 2025.
+- [RadRevise: A Benchmark Dataset for Instruction-Based Radiology Report Editing](file:///C:/Users/dubing.chen/Downloads/huang25a.pdf), **_AAAI_**, 2025.
 - [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD 2024_**, 2024.
+- [ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding](https://arxiv.org/abs/2506.04353), **_arXiv_**, 2025.
 - [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019), **_EMNLP_**, 2024.
 - [The generative era of medical AI](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9), **_Cell_**, 2025.
 - [Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm](https://arxiv.org/pdf/2403.16446), **_arXiv_**, 2024.
