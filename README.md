@@ -134,7 +134,7 @@
 - [Di-Agent: A Multi-Agent Llm Framework for Full Lifecycle Bearing Health Management](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5292405), **_SSRN_**, 2025.
 - [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/pdf/2505.19630?), **_arXiv_**, 2025.
 - [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/pdf/2507.02616), **_arXiv_**, 2025.
-- [Enhancing Diagnostic Capability with Multi‑Agents Conversational LLMs](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
+- [Enhancing diagnostic capability with multi-agents conversational large language models](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
 - [Empowering LLM Agents With Zero-Shot Optimal Decision-Making Through Q-Learning](https://openreview.net/pdf?id=JsVIGVntnQ), **_ICLR_**, 2025.
 - [Map: Evaluation and multi-agent enhancement of large language models for inpatient pathways](https://arxiv.org/pdf/2503.13205?), **_arXiv_**, 2025.
 - [From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents](https://arxiv.org/pdf/2506.15911), **_arXiv_**, 2025.
