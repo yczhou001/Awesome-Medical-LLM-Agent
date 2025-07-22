@@ -173,6 +173,7 @@
 - [Reinforcing clinical decision support through multi-agent systems and ethical ai governance](https://arxiv.org/pdf/2504.03699?), **_arXiv_**, 2025.
 - [Rx Strategist: Prescription Verification Using LLM Agent Systems](https://arxiv.org/abs/2409.03440), **_arXiv_**, 2024.
 - [Self‑Evolving Multi‑Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678), **_arXiv_**, 2025.
+- [Sequential Diagnosis with Language Models](https://arxiv.org/abs/2506.22405), **_arXiv_**, 2025.
 - [STELLA: Self-Evolving LLM Agent for Biomedical Research](https://arxiv.org/pdf/2507.02004), **_arXiv_**, 2025.
 - [SurgBox: Agent-Driven Operating Room Sandbox With Surgery Copilot](https://arxiv.org/pdf/2412.05187), **_arXiv_**, 2024.
 - [Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare](https://arxiv.org/pdf/2506.12482), **_arXiv_**, 2025.
