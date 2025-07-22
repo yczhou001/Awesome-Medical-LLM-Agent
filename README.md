@@ -10,6 +10,7 @@
 
 
 ## Medical LLM
+- [A foundation model to predict and capture human cognition](https://www.nature.com/articles/s41586-025-09215-4), **_Nature_**, 2025.
 - [A Foundational Multimodal Vision Language AI Assistant for Human Pathology](https://arxiv.org/abs/2312.07814), **_arXiv_**, 2023.
 - [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2), **_Nature Medicine_**, 2024.
 - [A study of generative large language model for medical research and healthcare](https://www.nature.com/articles/s41746-023-00958-w  ), **_NPJ Digital Medicine_**, 2023.
@@ -204,7 +205,7 @@
 - [Multimodal generative AI for medical image interpretation](https://www.nature.com/articles/s41586-025-08675-y), **_AAAI_**, 2025.
 - [Optimizing AI solutions for population health in primary care](https://www.nature.com/articles/s41746-025-01864-z), **npj Digital Medicine**, 2025.
 - [RadRevise: A Benchmark Dataset for Instruction-Based Radiology Report Editing](file:///C:/Users/dubing.chen/Downloads/huang25a.pdf), **_AAAI_**, 2025.
-- [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD 2024_**, 2024.
+- [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD_**, 2024.
 - [ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding](https://arxiv.org/abs/2506.04353), **_arXiv_**, 2025.
 - [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019), **_EMNLP_**, 2024.
 - [The generative era of medical AI](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9), **_Cell_**, 2025.
