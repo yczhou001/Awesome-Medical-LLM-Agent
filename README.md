@@ -38,8 +38,9 @@
 - [Diagnostic Reasoning Prompts Reveal the Potential for LLM Interpretability in Medicine](https://www.nature.com/articles/s41746-024-01010-1), **_NPJ Digital Medicine_**, 2024.
 - [DiagX-DT: diagnostic exclusion reasoning with dialectical thinking for traditional Chinese medicine in large language models](https://link.springer.com/article/10.1007/s44443-025-00123-1), **_Journal of King Saud University Computer and Information Sciences_**, 2025.
 - [DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation](https://arxiv.org/abs/2308.14346), **_arXiv_**, 2023.
-- [DoctorGLM: Fine‑tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/abs/2304.01097), ***arXiv***, 2023.
+- [DoctorGLM: Fine‑tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/abs/2304.01097), **_arXiv_**, 2023.
 - [ELMTEX: Fine‑Tuning Large Language Models for Structured Clinical Information Extraction](https://arxiv.org/abs/2502.05638), **_arXiv_**, 2025.
+- [Evaluating and mitigating bias in AI-based medical text generation](https://www.nature.com/articles/s43588-025-00789-7), **_Nature Computational Science_**, 2025.
 - [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
 - [Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training](https://arxiv.org/abs/2401.01179), **_ICASSP_**, 2024.
 - [From MedPrompt to o1: Exploration of Run‑Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590), **_arXiv_**, 2024.
