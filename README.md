@@ -177,6 +177,7 @@
 - [STELLA: Self-Evolving LLM Agent for Biomedical Research](https://arxiv.org/pdf/2507.02004), **_arXiv_**, 2025.
 - [SurgBox: Agent-Driven Operating Room Sandbox With Surgery Copilot](https://arxiv.org/pdf/2412.05187), **_arXiv_**, 2024.
 - [Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare](https://arxiv.org/pdf/2506.12482), **_arXiv_**, 2025.
+- [WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis](https://arxiv.org/abs/2507.14680), **_MICCAI_**, 2025.
 
 
 
