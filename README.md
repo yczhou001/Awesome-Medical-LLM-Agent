@@ -215,6 +215,7 @@
 - [Mitigating Cognitive Biases in Clinical Decision-Making Through Multi-Agent Conversations Using Large Language Models: Simulation Study](https://www.jmir.org/2024/1/e59439), **_Journal of Medical Internet Research_**, 2024.
 - [Multimodal generative AI for medical image interpretation](https://www.nature.com/articles/s41586-025-08675-y), **_AAAI_**, 2025.
 - [Optimizing AI solutions for population health in primary care](https://www.nature.com/articles/s41746-025-01864-z), **npj Digital Medicine**, 2025.
+- [Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases](https://arxiv.org/abs/2503.04691), **_arXiv_**, 2025.
 - [RadRevise: A Benchmark Dataset for Instruction-Based Radiology Report Editing](file:///C:/Users/dubing.chen/Downloads/huang25a.pdf), **_AAAI_**, 2025.
 - [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD_**, 2024.
 - [ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding](https://arxiv.org/abs/2506.04353), **_arXiv_**, 2025.
