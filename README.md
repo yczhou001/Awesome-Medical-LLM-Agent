@@ -61,6 +61,7 @@
 - [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2407.08940), **_arXiv_**, 2024.
 - [Large Language Models Encode Clinical Knowledge](https://www.nature.com/articles/s41586-023-06291-2), **_Nature_**, 2023.
 - [Large Language Models to Identify Advance Care Planning in Patients With Advanced Cancer](https://pubmed.ncbi.nlm.nih.gov/39586429/), **_J Pain Symptom Manage._**, 2025.
+- [LoRKD: Low-Rank Knowledge Decomposition for Medical Foundation Models](https://arxiv.org/abs/2409.19540), **_arXiv_**, 2024.
 - [MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation](https://arxiv.org/abs/2507.06992), **_arXiv_**, 2025.
 - [Med-Flamingo: a Multimodal Medical Few-shot Learner](https://proceedings.mlr.press/v225/moor23a.html), **_Proceedings of the 3rd Machine Learning for Health Symposium, PMLR 225:353-367_**, 2023.
 - [MedAlign: A Clinician-Generated Dataset for Instruction Following with Electronic Medical Records](https://arxiv.org/abs/2308.14089), **_arXiv_**, 2023.
