@@ -93,6 +93,7 @@
 - [Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data](https://arxiv.org/abs/2308.02463), **_arXiv_**, 2023.
 - [Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems With Large Language Models](https://openreview.net/pdf?id=4c5rg9y4me), **_arXiv_**, 2024.
 - [UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation](https://arxiv.org/abs/2504.21336)), **_arXiv_**, 2025.
+- [Unibrain: Universal brain mri diagnosis with hierarchical knowledge-enhanced pre-training](https://www.sciencedirect.com/science/article/abs/pii/S0895611125000254), **_Computerized Medical Imaging and Graphics_**, 2025.
 - [Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities](https://github.com/cambridgeltl/visual-med-alpaca), 2024.
 - [XrayGLM: The first Chinese Medical Multimodal Model that Chest Radiographs Summarization](https://github.com/WangRongsheng/XrayGLM), 2023.
 - [XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models](https://arxiv.org/abs/2306.07971), **_ACL 2024-BIONLP Workshop_**, 2024.
