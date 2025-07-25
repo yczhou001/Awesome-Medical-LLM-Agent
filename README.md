@@ -148,8 +148,9 @@
 - [Map: Evaluation and multi-agent enhancement of large language models for inpatient pathways](https://arxiv.org/pdf/2503.13205?), **_arXiv_**, 2025.
 - [From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents](https://arxiv.org/pdf/2506.15911), **_arXiv_**, 2025.
 - [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](https://arxiv.org/pdf/2507.02773), **_arXiv_**, 2025.
-- [Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](https://arxiv.org/pdf/2504.11301?),**_arXiv_**, 2025.
+- [Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](https://arxiv.org/pdf/2504.11301?), **_arXiv_**, 2025.
 - [LLMs Can Simulate Standardized Patients via Agent Co‑Evolution](https://arxiv.org/abs/2412.11716), **_arXiv_**, 2024.
+- [M3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging](https://arxiv.org/abs/2502.20301), **_arXiv_**, 2025.
 - [Magda: Multi-Agent Guideline-Driven Diagnostic Assistance](https://arxiv.org/pdf/2409.06351), **_MICCAI_**, 2024.
 - [MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](https://arxiv.org/abs/2506.19835), **_ACL_**, 2025.
 - [MAP: Multi‑Agent Enhancement of LLMs for In‑Patient Pathways](https://arxiv.org/abs/2503.13205), **_arXiv_**, 2025.
