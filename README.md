@@ -16,8 +16,8 @@
 - [A study of generative large language model for medical research and healthcare](https://www.nature.com/articles/s41746-023-00958-w  ), **_NPJ Digital Medicine_**, 2023.
 - [An Explainable Biomedical Foundation Model via Large-Scale Concept-Enhanced Vision-Language Pre-training](https://arxiv.org/abs/2501.15579), **_arXiv_**, 2025.
 - [A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis](https://arxiv.org/abs/2412.13126), **_arXiv_**, 2024.
-- [Augmenting intensive care unit nursing practice with generative AI: A formative study of diagnostic synergies using simulation-based clinical cases](https://pubmed.ncbi.nlm.nih.gov/39101368/), **_J Clin Nurs
-._**, 2025.
+- [Augmenting intensive care unit nursing practice with generative AI: A formative study of diagnostic synergies using simulation-based clinical cases](https://pubmed.ncbi.nlm.nih.gov/39101368/), **_J Clin Nurs._**, 2025.
+- [AutoRG-Brain: Grounded Report Generation for Brain MRI](AutoRG-Brain: Grounded Report Generation for Brain MRI), **_arXiv_**, 2024.
 - [Beyond Self‑Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging](https://arxiv.org/abs/2404.13149), **_AIME_**, 2024.
 - [BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT](https://arxiv.org/abs/2310.15896), **_arXiv_**, 2023.
 - [BioGPT: Generative Pre‑Trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/abs/2210.10341), **_Briefings in Bioinformatics_**, 2022.
