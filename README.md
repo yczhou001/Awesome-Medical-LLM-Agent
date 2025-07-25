@@ -114,7 +114,7 @@
 - [CoD: Towards an Interpretable Medical Agent Using Chain of Diagnosis](https://arxiv.org/abs/2407.13301), **_arXiv_**, 2024.
 - [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/pdf/2505.16229), **_bioRXiv_**, 2025.
 - [DrHouse: An LLM‑Empowered Diagnostic Reasoning System](https://arxiv.org/abs/2405.12541), **_PACM IMWUT_**, 2024.
-- [EHRAgent: Code Empowers LLMs for Few‑Shot Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128), **_arXiv_**, 2024.
+- [Ehragent: Code empowers large language models for few-shot complex tabular reasoning on electronic health records](https://pmc.ncbi.nlm.nih.gov/articles/PMC11867733/), **_CEMNLP_**, 2024.
 - [Emerging cyber attack risks of medical ai agents](https://arxiv.org/abs/2504.03759), **_arXiv_**, 2025.
 - [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
 - [Future Prospects of Agentic RAG in Medical Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5212343), **_SSRN_**, 2025.
