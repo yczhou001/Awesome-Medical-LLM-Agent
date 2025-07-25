@@ -73,6 +73,8 @@
 - [MedPAIR: Measuring Physicians and AI Relevance Alignment in Medical Question Answering](https://arxiv.org/abs/2505.24040), **_arXiv_**, 2025.
 - [MED‑Prompt: A Novel Prompt Engineering Framework for Medicine Prediction on Free‑Text Clinical Notes](https://www.sciencedirect.com/science/article/pii/S1319157824000223), **_Journal of King Saud University – Computer & Information Sciences_**, 2024.
 - [Medical Reasoning in LLMs: An In‑Depth Analysis of DeepSeek R1](https://www.frontiersin.org/articles/10.3389/frai.2025.1616145), **_Frontiers in Artificial Intelligence_**, 2025.
+- [Medvlm-r1: Incentivizing medical reasoning capability of vision-language models (vlms) via reinforcement learning](https://arxiv.org/abs/2502.19634), **_arXiv_**, 2025.
+- [Med-r1: Reinforcement learning for generalizable medical reasoning in vision-language models](https://arxiv.org/abs/2503.13939), **_arXiv_**, 2025.
 - [MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis](https://arxiv.org/abs/2407.04106v1), **_arXiv_**, 2024.
 - [MOSS-MED: A Family of Multimodal Models Serving Medical Image Analysis](https://dl.acm.org/doi/10.1145/3688005), **_ACM Transactions on Management Information Systems_**, 2025.
 - [MRGen: Segmentation Data Engine For Underrepresented MRI Modalities](https://arxiv.org/abs/2412.04106), **_arXiv_**, 2025.
