@@ -223,6 +223,7 @@
 - [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019), **_EMNLP_**, 2024.
 - [The generative era of medical AI](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9), **_Cell_**, 2025.
 - [Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm](https://arxiv.org/pdf/2403.16446), **_arXiv_**, 2024.
+- [Towards evaluating and building versatile large language models for medicine](https://www.nature.com/articles/s41746-024-01390-4), **_npj Digital Medicine_**, 2025.
 - [WHO Guidance: Ethics and Governance of Artificial Intelligence for Health – Large Multi‑Modal Models](https://www.who.int/publications/i/item/9789240084759), **_World Health Organization_**, 2024.
 
 
