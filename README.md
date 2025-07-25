@@ -129,6 +129,7 @@
 - [Agentic LLM Workflows for Generating Patient-Friendly Medical Reports](https://arxiv.org/pdf/2408.01112), **_arXiv_**, 2024.
 - [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/abs/2409.18924), **_arXiv_**, 2024.
 - [AKIBoards: A Structure‑Following Multi‑Agent System for Predicting Acute Kidney Injury](https://arxiv.org/abs/2504.20368), **_arXiv_**, 2025.
+- [An Agentic System for Rare Disease Diagnosis with Traceable Reasoning](https://arxiv.org/pdf/2506.20430), **_arXiv_**, 2025.
 - [An LLM-based Framework for Biomedical Terminology Normalization in Social Media via Multi-Agent Collaboration](https://aclanthology.org/2025.coling-main.714.pdf), **_ACL_** 2025.
 - [An LLM-Driven Multi-Agent Debate System for Mendelian Diseases](https://arxiv.org/pdf/2504.07881), **_arXiv_**, 2025.
 - [A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10889517&casa_token=m6rB12gal6cAAAAA:H5zMNTMvWWxxjci3IpigKVmHw3Dgmf5yrJN1Dmg83QTigBxe2En8vOTLga_Nj-oVL-0Mz3dbtQ&tag=1), **_ICASSP_**, 2025.
