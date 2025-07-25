@@ -80,6 +80,7 @@
 - [Multimodal generative AI for interpreting 3D medical images and videos](https://www.nature.com/articles/s41746-025-01649-4), **_npj Digital Medicine_**, 2025.
 - [OpenMedLM: Prompt Engineering Can Out‑Perform Fine‑Tuning in Medical Question‑Answering with Open‑Source LLMs](https://www.nature.com/articles/s41598-024-64827-6), **_Scientific Reports_**, 2024.
 - [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue](https://www.sciencedirect.com/science/article/pii/S0933365724002434), **_Artificial Intelligence in Medicine_**, 2024.
+- [Orthodoc: Multimodal large language model for assisting diagnosis in computed tomography](https://arxiv.org/abs/2409.09052), **_arXiv_**, 2024.
 - [Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost](https://arxiv.org/abs/2306.10765), **_arXiv_**, 2023.
 - [PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fa5b423e24b442180bcd4e13ae75a27f-Abstract-Conference.html), **_NeurIPS_**, 2024.
 - [PMC-LLaMA: Towards Building Open-source Language Models for Medicine](https://academic.oup.com/jamia/article-abstract/31/9/1833/7645318?redirectedFrom=fulltext), **_Journal of the American Medical Informatics Association_**, 2024.
