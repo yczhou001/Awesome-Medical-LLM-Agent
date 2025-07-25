@@ -74,6 +74,7 @@
 - [Medical Reasoning in LLMs: An In‑Depth Analysis of DeepSeek R1](https://www.frontiersin.org/articles/10.3389/frai.2025.1616145), **_Frontiers in Artificial Intelligence_**, 2025.
 - [MiniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis](https://arxiv.org/abs/2407.04106v1), **_arXiv_**, 2024.
 - [MOSS-MED: A Family of Multimodal Models Serving Medical Image Analysis](https://dl.acm.org/doi/10.1145/3688005), **_ACM Transactions on Management Information Systems_**, 2025.
+- [MRGen: Segmentation Data Engine For Underrepresented MRI Modalities](https://arxiv.org/abs/2412.04106), **_arXiv_**, 2025.
 - [Multimodal generative AI for interpreting 3D medical images and videos](https://www.nature.com/articles/s41746-025-01649-4), **_npj Digital Medicine_**, 2025.
 - [OpenMedLM: Prompt Engineering Can Out‑Perform Fine‑Tuning in Medical Question‑Answering with Open‑Source LLMs](https://www.nature.com/articles/s41598-024-64827-6), **_Scientific Reports_**, 2024.
 - [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue](https://www.sciencedirect.com/science/article/pii/S0933365724002434), **_Artificial Intelligence in Medicine_**, 2024.
