@@ -83,6 +83,7 @@
 - [Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model](https://arxiv.org/abs/2310.09089), **_arXiv_**, 2023.
 - [Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare](https://arxiv.org/abs/2310.17956), **_arXiv_**, 2023.
 - [Reasoning with Large Language Models for Medical Question Answering](https://pubmed.ncbi.nlm.nih.gov/38960731/), **_Journal of the American Medical Informatics Association_**, 2024.
+- [Rethinking Whole-Body CT Image Interpretation: An Abnormality-Centric Approach](https://arxiv.org/abs/2506.03238), **_arXiv_**, 2025.
 - [Taiyi: a bilingual fine-tuned large language model for diverse biomedical tasks](https://openreview.net/forum?id=ITONxFZ5J6&referrer=%5Bthe%20profile%20of%20Dinghao%20Pan%5D(%2Fprofile%3Fid%3D~Dinghao_Pan1)), **_Journal of the American Medical Informatics Association_**, 2024.
 - [Thinking About GPT‑3 In‑Context Learning for Biomedical IE? Think Again](https://arxiv.org/abs/2203.08410), **_arXiv_**, 2022.
 - [Towards Expert‑Level Medical Question Answering with Large Language Models](https://www.nature.com/articles/s41591-024-03423-7), **_Nature Medicine_**, 2025.
@@ -102,6 +103,7 @@
 - [Augmentation of ChatGPT with Clinician‑Informed Tools Improves Performance on Medical Calculation Tasks](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1), **_medRxiv_**, 2023.
 - [Autonomous Artificial Intelligence Agents for Clinical Decision Making in Oncology](https://arxiv.org/html/2404.04667v1), **_arXiv_**, 2024.
 - [Biomni: A General-Purpose Biomedical AI Agent](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1), **_arXiv_**, 2025.
+- [ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](https://arxiv.org/abs/2504.20930), **_arXiv_**, 2025.
 - [CoD: Towards an Interpretable Medical Agent Using Chain of Diagnosis](https://arxiv.org/abs/2407.13301), **_arXiv_**, 2024.
 - [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/pdf/2505.16229), **_bioRXiv_**, 2025.
 - [DrHouse: An LLM‑Empowered Diagnostic Reasoning System](https://arxiv.org/abs/2405.12541), **_PACM IMWUT_**, 2024.
