@@ -69,6 +69,7 @@
 - [MedAlpaca—An Open‑Source Collection of Medical Conversational AI Models and Training Data](https://arxiv.org/abs/2304.08247), **_arXiv_**, 2023.
 - [MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts](https://arxiv.org/abs/2305.10799  ), **_arXiv_**, 2023.
 - [MedGemma Technical Report](https://arxiv.org/abs/2507.05201), **_arXiv_**, 2025.
+- [MedGo: A Chinese Medical Large Language Model](https://arxiv.org/abs/2410.20428), **_arXiv_**, 2025.
 - [Medical Hallucinations in Foundation Models and Their Impact on Healthcare](https://arxiv.org/abs/2503.05777), **_arXiv_**, 2025.
 - [MedPAIR: Measuring Physicians and AI Relevance Alignment in Medical Question Answering](https://arxiv.org/abs/2505.24040), **_arXiv_**, 2025.
 - [MED‑Prompt: A Novel Prompt Engineering Framework for Medicine Prediction on Free‑Text Clinical Notes](https://www.sciencedirect.com/science/article/pii/S1319157824000223), **_Journal of King Saud University – Computer & Information Sciences_**, 2024.
@@ -193,6 +194,7 @@
 
 ## Medical LLM & Agent Survey & Benchmark
 - [3MDBench: Medical Multimodal Multi-agent Dialogue Benchmark](https://arxiv.org/pdf/2504.13861), **_arXiv_**, 2025.
+- [A Comprehensive Survey of Electronic Health Record Modeling: From Deep Learning Approaches to Large Language Models](https://arxiv.org/abs/2507.12774), **_arXiv_**, 2025.
 - [Addressing Cognitive Bias in Medical Language Models](https://arxiv.org/pdf/2402.08113), **_arXiv_**, 2024.
 - [AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments](https://arxiv.org/abs/2405.07960), **_arXiv_**, 2024.
 - [AI Agents in Modern Healthcare: A Comprehensive Review and Implementation Roadmap](https://www.preprints.org/manuscript/202503.1352/v1), **_Preprints_**, 2025.
