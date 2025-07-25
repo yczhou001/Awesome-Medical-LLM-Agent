@@ -134,6 +134,7 @@
 - [ADAgent: LLM Agent for Alzheimer's Disease Analysis with Collaborative Coordinator](https://arxiv.org/pdf/2506.11150), **_arXiv_**, 2025.
 - [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957), **_arXiv_**, 2024.
 - [Agentic LLM Workflows for Generating Patient-Friendly Medical Reports](https://arxiv.org/pdf/2408.01112), **_arXiv_**, 2024.
+- [A-IDE : Agent-Integrated Denoising Experts](https://arxiv.org/abs/2503.16780), **_arXiv_**, 2025.
 - [AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/abs/2409.18924), **_arXiv_**, 2024.
 - [AKIBoards: A Structure‑Following Multi‑Agent System for Predicting Acute Kidney Injury](https://arxiv.org/abs/2504.20368), **_arXiv_**, 2025.
 - [An Agentic System for Rare Disease Diagnosis with Traceable Reasoning](https://arxiv.org/pdf/2506.20430), **_arXiv_**, 2025.
