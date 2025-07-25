@@ -23,6 +23,7 @@
 - [BioGPT: Generative Pre‑Trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/abs/2210.10341), **_Briefings in Bioinformatics_**, 2022.
 - [Can Generalist Foundation Models Out‑Compete Special‑Purpose Tuning? Case Study in Medicine](https://arxiv.org/abs/2311.16452), **_arXiv_**, 2023.
 - [Can Large Language Models Reason About Medical Questions?](https://www.cell.com/patterns/fulltext/S2666-3899%2824%2900042-4), **_Patterns_**, 2024.
+- [Can GPT-4V(ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis](https://arxiv.org/abs/2310.09909), **_arXiv_**, 2023.
 - [Capabilities of Gemini Models in Medicine](https://arxiv.org/abs/2404.18416), **_arXiv_**, 2024.
 - [Chain‑of‑Thought Prompting Strategies for Medical Error Detection and Correction](https://arxiv.org/abs/2406.09103), **_arXiv_**, 2024.
 - [Chain‑of‑Thought Strategy for Smaller LLMs for Medical Reasoning](https://www.researchgate.net/publication/391821305_Chain_of_Thought_Strategy_for_Smaller_LLMs_for_Medical_Reasoning), **_Studies in Health Technology & Informatics_**, 2025.
