@@ -225,6 +225,7 @@
 - [MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models](https://arxiv.org/pdf/2412.18947), **_AAAI_**, 2025.
 - [Mitigating Cognitive Biases in Clinical Decision-Making Through Multi-Agent Conversations Using Large Language Models: Simulation Study](https://www.jmir.org/2024/1/e59439), **_Journal of Medical Internet Research_**, 2024.
 - [Multimodal generative AI for medical image interpretation](https://www.nature.com/articles/s41586-025-08675-y), **_AAAI_**, 2025.
+- [Omnimedvqa: A new large-scale comprehensive evaluation benchmark for medical lvlm](http://openaccess.thecvf.com/content/CVPR2024/html/Hu_OmniMedVQA_A_New_Large-Scale_Comprehensive_Evaluation_Benchmark_for_Medical_LVLM_CVPR_2024_paper.html), **_CVPR_**, 2024.
 - [Optimizing AI solutions for population health in primary care](https://www.nature.com/articles/s41746-025-01864-z), **npj Digital Medicine**, 2025.
 - [Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases](https://arxiv.org/abs/2503.04691), **_arXiv_**, 2025.
 - [RadGenome-Chest CT: A Grounded Vision-Language Dataset for Chest CT Analysis](https://arxiv.org/abs/2404.16754), **_arXiv_**, 2024.
