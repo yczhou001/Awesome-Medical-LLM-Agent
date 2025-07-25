@@ -228,6 +228,7 @@
 - [RadGenome-Chest CT: A Grounded Vision-Language Dataset for Chest CT Analysis](https://arxiv.org/abs/2404.16754), **_arXiv_**, 2024.
 - [RadRevise: A Benchmark Dataset for Instruction-Based Radiology Report Editing](file:///C:/Users/dubing.chen/Downloads/huang25a.pdf), **_AAAI_**, 2025.
 - [RareBench: Can LLMs Serve as Rare Diseases Specialists?](https://dl.acm.org/doi/10.1145/3637528.3671576), **_KDD_**, 2024.
+- [Reflectool: Towards reflection-aware tool-augmented clinical agents](https://arxiv.org/abs/2410.17657), **_arXiv_**, 2024.
 - [ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding](https://arxiv.org/abs/2506.04353), **_arXiv_**, 2025.
 - [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019), **_EMNLP_**, 2024.
 - [The generative era of medical AI](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9), **_Cell_**, 2025.
