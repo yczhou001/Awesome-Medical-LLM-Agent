@@ -43,7 +43,6 @@
 - [DoctorGLM: Fine‑tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/abs/2304.01097), **_arXiv_**, 2023.
 - [ELMTEX: Fine‑Tuning Large Language Models for Structured Clinical Information Extraction](https://arxiv.org/abs/2502.05638), **_arXiv_**, 2025.
 - [Evaluating and mitigating bias in AI-based medical text generation](https://www.nature.com/articles/s43588-025-00789-7), **_Nature Computational Science_**, 2025.
-- [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
 - [Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training](https://arxiv.org/abs/2401.01179), **_ICASSP_**, 2024.
 - [From MedPrompt to o1: Exploration of Run‑Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590), **_arXiv_**, 2024.
 - [GatorTron: A Large Clinical Language Model to Unlock Patient Information from Unstructured EHRs](https://arxiv.org/abs/2203.03540), **_arXiv_**, 2022.
@@ -116,7 +115,6 @@
 - [DrHouse: An LLM‑Empowered Diagnostic Reasoning System](https://arxiv.org/abs/2405.12541), **_PACM IMWUT_**, 2024.
 - [Ehragent: Code empowers large language models for few-shot complex tabular reasoning on electronic health records](https://pmc.ncbi.nlm.nih.gov/articles/PMC11867733/), **_CEMNLP_**, 2024.
 - [Emerging cyber attack risks of medical ai agents](https://arxiv.org/abs/2504.03759), **_arXiv_**, 2025.
-- [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
 - [Future Prospects of Agentic RAG in Medical Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5212343), **_SSRN_**, 2025.
 - [GeneGPT: Augmenting LLMs with Domain Tools for Improved Access to Biomedical Information](https://academic.oup.com/bioinformatics/article/40/2/btae075/7606338), **_Bioinformatics_**, 2024.
 - [HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Genetic Biomarker-Based Medical Diagnosis](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1.full.pdf), **_arXiv_**, 2025.
@@ -154,6 +152,7 @@
 - [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/pdf/2507.02616), **_arXiv_**, 2025.
 - [Enhancing diagnostic capability with multi-agents conversational large language models](https://www.nature.com/articles/s41746-025-01550-0), **_NPJ Digital Medicine_**, 2025.
 - [Empowering LLM Agents With Zero-Shot Optimal Decision-Making Through Q-Learning](https://openreview.net/pdf?id=JsVIGVntnQ), **_ICLR_**, 2025.
+- [Few‑Shot Chain‑of‑Thought‑Driven Reasoning to Prompt LLMs for Open‑Ended Medical QA](https://arxiv.org/abs/2403.04890), **_arXiv_**, 2024.
 - [Map: Evaluation and multi-agent enhancement of large language models for inpatient pathways](https://arxiv.org/pdf/2503.13205?), **_arXiv_**, 2025.
 - [From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents](https://arxiv.org/pdf/2506.15911), **_arXiv_**, 2025.
 - [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](https://arxiv.org/pdf/2507.02773), **_arXiv_**, 2025.
