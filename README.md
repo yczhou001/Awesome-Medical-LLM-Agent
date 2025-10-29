@@ -216,7 +216,7 @@
 - [Improving Clinical Documentation with AI: A Comparative Study of Sporo AI Scribe and GPT-4o mini](https://arxiv.org/pdf/2410.15528), **_arXiv_**, 2024.
 - [How generative AI voice agents will transform medicine](https://www.nature.com/articles/s41746-025-01776-y), **_npj Digital Medicine_**, 2025.
 - [How Well Can Modern LLMs Act as Agent Cores in Radiology Environments?](https://arxiv.org/abs/2412.09529), **_arXiv_**, 2025.
-- [KG4Diagnosis: A Hierarchical Multi-Agent Ilm Framework With Knowledge Graph Enhancement for Medical Diagnosis](), **_AAAI_**, 2025.
+- [KG4Diagnosis: A Hierarchical Multi-Agent Ilm Framework With Knowledge Graph Enhancement for Medical Diagnosis](https://arxiv.org/abs/2412.16833), **_AAAI_**, 2025.
 - [LLM-Based Agentic Systems in Medicine and Healthcare](https://www.nature.com/articles/s42256-024-00944-1), **_Nature Machine Intelligence volume_**, 2024.
 - [M$^3$-Med: A Benchmark for Multi-lingual, Multi-modal, and Multi-hop Reasoning in Medical Instructional Video Understanding](https://arxiv.org/abs/2507.04289), **_arXiv_**, 2025.
 - [MediQ: Question‑Asking LLMs and a Benchmark for Reliable Interactive Clinical Reasoning](https://arxiv.org/abs/2406.00922), **_NeurIPS_**, 2024.
