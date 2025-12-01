@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF%20available-blue)](https://openreview.net/pdf?id=75M55jtwj6)
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF%20available-red)](https://openreview.net/pdf?id=75M55jtwj6)
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/yczhou001/Awesome-Medical-LLM-Agent)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/yczhou001/Awesome-Medical-LLM-Agent?color=green)
