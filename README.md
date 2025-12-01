@@ -1,15 +1,39 @@
-<div align="center">
-  
-# Awesome Medical LLM and Medical Agent
+## 🩺 Reasoning as the Engine: The Evolution from Medical LLMs to Versatile Medical Agents 
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/yczhou001/Awesome-Medical-LLM-Agent) 
+<div align="center">
+
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF%20available-blue)](https://openreview.net/pdf?id=75M55jtwj6)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/yczhou001/Awesome-Medical-LLM-Agent)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/yczhou001/Awesome-Medical-LLM-Agent?color=green) 
+![Last Commit](https://img.shields.io/github/last-commit/yczhou001/Awesome-Medical-LLM-Agent?color=green)
+
+✨ Click 👀 <b>Watch</b> and ⭐ <b>Star</b> to support this project ✨  
+</div>
+
+---
+<br>
+<p>&nbsp;</p>
+<img src="image/tree.jpeg">
+<br>
+<em></em>
 
 </div>
 
+---
 
-## Medical LLM
+
+
+## 📌 Quick Links
+
+- [1. Medical LLM](#1-medical-llm)
+- [2. Medical Single Agent](#2-medical-single-agent)
+- [3. Medical Multi Agent](#3-medical-multi-agent)
+- [4. Medical LLM & Agent Survey & Benchmark](#4-medical-llm--agent-survey--benchmark)
+- [🌱 Acknowledgements](#-acknowledgements)
+
+---
+
+## 1. Medical LLM
 - [A foundation model to predict and capture human cognition](https://www.nature.com/articles/s41586-025-09215-4), **_Nature_**, 2025.
 - [A Foundational Multimodal Vision Language AI Assistant for Human Pathology](https://arxiv.org/abs/2312.07814), **_arXiv_**, 2023.
 - [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2), **_Nature Medicine_**, 2024.
@@ -106,7 +130,7 @@
 - [Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue](https://arxiv.org/abs/2308.03549), **_arXiv_**, 2023.
 
 
-## Medical Single Agent
+## 2. Medical Single Agent
 - [Almanac—Retrieval‑Augmented Language Models for Clinical Medicine](https://ai.nejm.org/doi/full/10.1056/AIoa2300068), **_NEJM AI_**, 2024.
 - [AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions](https://arxiv.org/pdf/2507.03493), **_arXiv_**, 2025.
 - [Augmentation of ChatGPT with Clinician‑Informed Tools Improves Performance on Medical Calculation Tasks](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1), **_medRxiv_**, 2023.
@@ -132,7 +156,7 @@
 - [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
 
 
-## Medical Multi Agent
+## 3. Medical Multi Agent
 - [A Dual-Agent Collaboration Framework Based on Ilms for Nursing Robots to Perform Bimanual Coordination Tasks](https://ieeexplore.ieee.org/document/10852163), **_ICRA_**, 2025.
 - [Adaptive Reasoning and Acting in Medical Language Agents](https://arxiv.org/abs/2410.10020), **_arXiv_**, 2024.
 - [ADAgent: LLM Agent for Alzheimer's Disease Analysis with Collaborative Coordinator](https://arxiv.org/pdf/2506.11150), **_arXiv_**, 2025.
@@ -196,7 +220,7 @@
 
 
 
-## Medical LLM & Agent Survey & Benchmark
+## 4. Medical LLM & Agent Survey & Benchmark
 - [3MDBench: Medical Multimodal Multi-agent Dialogue Benchmark](https://arxiv.org/pdf/2504.13861), **_arXiv_**, 2025.
 - [A Comprehensive Survey of Electronic Health Record Modeling: From Deep Learning Approaches to Large Language Models](https://arxiv.org/abs/2507.12774), **_arXiv_**, 2025.
 - [Addressing Cognitive Bias in Medical Language Models](https://arxiv.org/pdf/2402.08113), **_arXiv_**, 2024.
@@ -241,6 +265,13 @@
 - [Towards evaluating and building versatile large language models for medicine](https://www.nature.com/articles/s41746-024-01390-4), **_npj Digital Medicine_**, 2025.
 - [WHO Guidance: Ethics and Governance of Artificial Intelligence for Health – Large Multi‑Modal Models](https://www.who.int/publications/i/item/9789240084759), **_World Health Organization_**, 2024.
 
+## 💡 Welcome Contributions to **Awesome-Medical-LLM-Agent** 💡  
+If you find missing work or have suggestions, feel free to open an issue or contact us at **yucheng.zhou@connect.um.edu.mo**. We will promptly update the repository.
+
+## 🌱 Acknowledgements
+
+We would like to express our sincere appreciation to the researchers, clinicians, medical practitioners, and engineers dedicated to advancing medical artificial intelligence.  
+Their continuous efforts are driving the transformation from Medical Large Language Models to reliable and versatile Medical Agents, enabling safer, more intelligent, and more accessible healthcare for all.
 
 
 
