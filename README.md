@@ -47,6 +47,7 @@ If you find our survey is useful in your research or applications, please consid
 ---
 
 ## 1. Medical LLM
+- [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018), **_arXiv_**, 2025. 
 - [A foundation model to predict and capture human cognition](https://www.nature.com/articles/s41586-025-09215-4), **_Nature_**, 2025.
 - [A Foundational Multimodal Vision Language AI Assistant for Human Pathology](https://arxiv.org/abs/2312.07814), **_arXiv_**, 2023.
 - [A generalist vision–language foundation model for diverse biomedical tasks](https://www.nature.com/articles/s41591-024-03185-2), **_Nature Medicine_**, 2024.
