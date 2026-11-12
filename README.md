@@ -164,6 +164,7 @@ If you find our survey is useful in your research or applications, please consid
 - [Medrax: Medical reasoning agent for chest x-ray](https://arxiv.org/pdf/2502.02673), **_arXiv_**, 2025.
 - [MeNTi: Bridging Medical Calculator and LLM Agent With Nested Tool Calling](https://arxiv.org/pdf/2410.13610), **_NAACL_**, 2025.
 - ["My Nose Is Running." "Are You Also Coughing?": Building a Medical Diagnosis Agent with Interpretable Inquiry Logics](https://arxiv.org/abs/2204.13953), **_IJCAI 2022_**, 2022.
+- [PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals](https://arxiv.org/abs/2405.19660), **_EMNLP_**, 2024.
 - [Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios](https://arxiv.org/pdf/2411.14461), **_arXiv_**, 2024.
 - [VoxelPrompt: A Vision‑Language Agent for Grounded Medical Image Analysis](https://arxiv.org/abs/2410.08397), **_arXiv_**, 2024.
 - [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://arxiv.org/abs/2411.12915), **_arXiv_**, 2024.
